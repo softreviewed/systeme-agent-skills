@@ -17,29 +17,35 @@ installer = load('installer', ROOT/'scripts/install.py')
 packager = load('packager', ROOT/'scripts/package.py')
 finder = load('finder', ROOT/'skills/systeme-io/scripts/find_sources.py')
 refresh = load('refresh', ROOT/'scripts/refresh_sources.py')
+router = load('router', ROOT/'skills/systeme-io/scripts/route_task.py')
 
 class Helpers(unittest.TestCase):
-    def test_bonus_and_upstream_install(self):
+    def test_complete_install_and_readiness(self):
         with tempfile.TemporaryDirectory() as temp:
-            for name in ('landing-page-email-design', 'frontend-design'):
-                dest = installer.install(Path(temp)/name, name)
-                self.assertTrue((dest/'SKILL.md').exists())
-                if name == 'frontend-design':
-                    self.assertTrue((dest/'LICENSE.txt').exists())
-                    self.assertFalse((dest/'LICENSE').exists())
-                    self.assertTrue((dest/'UPSTREAM.md').exists())
-                else:
-                    self.assertTrue((dest/'assets/campaign-worksheet.md').exists())
-                    self.assertTrue((dest/'references/visual-design.md').exists())
-                    self.assertTrue((dest/'LICENSE').exists())
-    def test_bundle_preserves_separate_licenses(self):
+            dest = installer.install(Path(temp)/'systeme-io')
+            for guide in router.ROUTES: self.assertTrue((dest/guide).exists(), guide)
+            result = json.loads(subprocess.check_output([sys.executable, str(dest/'scripts/check_install.py')],text=True))
+            self.assertTrue(result['files_complete'])
+            self.assertEqual(result['account_connection'], 'not tested')
+            (dest/'references/campaign/visual-design.md').unlink()
+            run = subprocess.run([sys.executable, str(dest/'scripts/check_install.py')],capture_output=True,text=True)
+            self.assertEqual(run.returncode, 1)
+            self.assertIn('references/campaign/visual-design.md',json.loads(run.stdout)['missing'])
+    def test_bundle_is_one_complete_skill(self):
         with tempfile.TemporaryDirectory() as temp:
             with ZipFile(packager.package(Path(temp)/'bundle.zip', 'bundle')) as z:
-                for name in packager.SKILLS: self.assertIn(name+'/SKILL.md', z.namelist())
-                self.assertIn('frontend-design/LICENSE.txt', z.namelist())
-                self.assertNotIn('frontend-design/LICENSE', z.namelist())
-                self.assertIn('landing-page-email-design/LICENSE', z.namelist())
+                self.assertEqual({p.split('/')[0] for p in z.namelist()}, {'systeme-io'})
+                self.assertIn('systeme-io/references/campaign/email-campaigns.md', z.namelist())
+                self.assertIn('systeme-io/LICENSE', z.namelist())
                 self.assertFalse(any('__pycache__' in p or '..' in p for p in z.namelist()))
+    def test_selective_task_routing(self):
+        access = router.route('give a student course access')
+        self.assertIn('references/courses-communities.md', access)
+        self.assertFalse(any('/campaign/' in p for p in access))
+        self.assertIn('references/campaign/visual-design.md', router.route('fix cramped mobile spacing'))
+        self.assertIn('references/campaign/email-campaigns.md', router.route('write a welcome sequence'))
+        self.assertEqual(router.route('zzznomatch'), [])
+        self.assertLessEqual(len(router.route(' '.join(router.ROUTES.values()))),4)
     def test_unknown_skill_rejected(self):
         with self.assertRaises(ValueError): installer.install(ROOT/'scratch/unknown', 'unknown')
         with self.assertRaises(ValueError): packager.package(ROOT/'scratch/unknown.zip', 'unknown')

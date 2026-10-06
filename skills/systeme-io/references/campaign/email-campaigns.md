@@ -25,4 +25,4 @@ Test only to an approved recipient. Inspect content, variables, CTA, delivery ev
 
 Measure the business outcome, not only opens: completed download, qualified enquiry, enrolment or purchase, as appropriate. Consider complaints/unsubscribes and delivery problems alongside clicks. Small samples and audience differences can make apparent improvements unreliable.
 
-For Systeme.io, start with [email campaign setup](https://help.systeme.io/article/367-how-to-set-up-an-email-campaign) and [sequence automation](https://help.systeme.io/article/284-how-to-automate-the-sending-of-a-series-of-emails-campaign). Use the separate platform skill for account operations when installed.
+For Systeme.io, read this skill's [email operations](../email.md) and, at implementation time, [automation and contacts](../automation-contacts.md). Check current [email campaign setup](https://help.systeme.io/article/367-how-to-set-up-an-email-campaign) and [sequence automation](https://help.systeme.io/article/284-how-to-automate-the-sending-of-a-series-of-emails-campaign). No separate skill is needed.

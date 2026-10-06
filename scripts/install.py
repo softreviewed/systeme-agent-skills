@@ -4,7 +4,7 @@ import shutil
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-SKILLS = ('systeme-io', 'landing-page-email-design', 'frontend-design')
+SKILLS = ('systeme-io',)
 SOURCE = ROOT/'skills/systeme-io'
 
 def install(destination, skill='systeme-io'):
@@ -28,6 +28,6 @@ def main():
         print('Preview only:', ROOT/'skills'/args.skill, '->', Path(args.destination).expanduser().absolute()); return
     try: print('Installed:', install(args.destination, args.skill))
     except (ValueError, FileExistsError) as e: p.exit(1, str(e)+'\n')
-    print('Reload the agent and confirm it discovers '+args.skill+'. No account connection or credentials were changed.')
+    print('Complete toolkit installed. Reload the agent and use systeme-io for your first task. Read references/getting-started.md for readiness checks. No account connection or credentials were changed.')
 
 if __name__ == '__main__': main()

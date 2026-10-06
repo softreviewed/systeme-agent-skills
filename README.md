@@ -35,38 +35,36 @@ The index contains titles and URLs, not copied article bodies. Link discovery is
 
 ## Install
 
-### Included bonus: landing pages, copy and email
+### One installation, the complete toolkit
 
-The complete bundle contains three independently installable skills:
+Version 2 packages everything inside one `systeme-io` skill. Users do not need to find separate design, copywriting or email skills.
 
-| Skill | What it teaches the agent |
+| Included | What it helps you do |
 |---|---|
-| `systeme-io` | Current platform workflows, connected actions and verification |
-| `landing-page-email-design` | Audience research, useful copy, page structure, matched email follow-up and testing |
-| `frontend-design` | Anthropic's standalone guidance for intentional layout, typography and visual critique |
+| Platform workflow guides | Websites, funnels, automation, contacts, courses, payments and troubleshooting |
+| Page design | Clear layout, useful visuals, readable buttons and mobile review |
+| Audience and copy | Relevant offers, natural headings, credible claims and clear next steps |
+| Email writing | Welcome, nurture and onboarding drafts matched to the page |
+| Quality and measurement | Check forms, destinations, rendering and proposed experiments |
+| First-use readiness guide | Separate installed files from verified account access |
 
-[Download the complete bundle](https://github.com/softreviewed/systeme-agent-skills/releases/latest/download/systeme-agent-skills-bundle.zip). Extract each selected folder into one supported skills directory. Keep its reference and license files. The bonus can be used on other platforms too; none of these files guarantees conversions or provides an account connection.
+[Download the complete toolkit](https://github.com/softreviewed/systeme-agent-skills/releases/latest/download/systeme-io-skill.zip). It contains one folder with all guides and helpers. The bundle ZIP is an equivalent download, not a second skill installation.
 
-The Frontend Design skill is bundled under Apache-2.0 with its original license and [source attribution](skills/frontend-design/UPSTREAM.md). SoftReviewed's original skills and helpers remain MIT licensed. This is an independent collection, not an Anthropic or Systeme.io endorsement.
+**Small context by design:** the agent discovers a short name/description, loads the entrypoint when needed and opens relevant guides at the current task stage. The optional router returns up to four guide paths without loading their bodies. The official-source helper returns selected links rather than the whole help index. Actual loading and caching depend on the host agent; no fixed token savings are claimed.
 
-Use the journey: audience question -> clear offer -> distinctive page -> useful email follow-up -> rendered review -> measured results.
+**Ready immediately for planning and drafting.** Account edits need a connected Systeme.io account and supported tools. Installing this skill does not grant access, paid features, guaranteed rankings or conversion gains.
 
-Example request:
+The current package contains SoftReviewed's original guides and code. The externally bundled Frontend Design skill from version 1.1 is removed in version 2; no rewritten copy of that skill replaces it. Previous releases retain their original licenses. General design principles support our own task-specific guidance.
 
-> Use landing-page-email-design and frontend-design to draft a professional course signup page and matching welcome emails. Use my real branding and proof. Use systeme-io for supported platform implementation. Show the desktop and mobile result and verify the links before publishing within my authorized scope.
+Example:
 
-Optional external additions reviewed through the GitHub MCP:
-
-- [Impeccable](https://github.com/pbakaus/impeccable): broader design refinement, browser iteration and tooling. Apache-2.0; not bundled because its full setup is separate from these portable instruction folders.
-- [Corey Haines' Marketing Skills](https://github.com/coreyhaines31/marketingskills): copywriting, email sequences and conversion reviews. MIT; optional separate installation. Treat examples, suggested timing and performance claims as items to verify against your own audience and evidence.
-
-No external installer is run automatically. Inspect the selected upstream version and its dependencies before installing.
+> Use systeme-io to build a course signup page and matching welcome sequence. Start with my audience and offer, use my real branding and proof, then check mobile layout and the signup-to-email flow. Work within my authorized scope and report any account access still needed.
 
 ### Easiest: ask your agent
 
 Give a filesystem-capable agent this repository link and ask:
 
-> Install the systeme-io skill from https://github.com/softreviewed/systeme-agent-skills. Inspect its files first. Use one supported skill directory for my agent, preserve existing skills and do not connect accounts or change credentials. Reload if needed, then show that you can find its website and email guides.
+> Install the systeme-io skill from https://github.com/softreviewed/systeme-agent-skills. Inspect its files first. Use one supported skill directory for my agent, preserve existing skills and do not connect accounts or change credentials. Reload if needed, then follow its getting-started guide: check local completeness and report connected account access without changing it. Start my requested task using only the relevant guides.
 
 A repository URL alone does not install skills in every app. Your agent needs file access or a supported import feature. [Download the skill-only ZIP](https://github.com/softreviewed/systeme-agent-skills/releases/latest/download/systeme-io-skill.zip) for manual installation/import; support varies by app.
 
@@ -92,8 +90,6 @@ git clone https://github.com/softreviewed/systeme-agent-skills.git
 cd systeme-agent-skills
 python scripts/install.py --destination "~/.agents/skills/systeme-io" --dry-run
 python scripts/install.py --destination "~/.agents/skills/systeme-io"
-python scripts/install.py --skill landing-page-email-design --destination "~/.agents/skills/landing-page-email-design"
-python scripts/install.py --skill frontend-design --destination "~/.agents/skills/frontend-design"
 ```
 
 For Claude Code or Antigravity, replace the destination using the table. The installer refuses to overwrite an existing skill. It does not edit agent settings, install an MCP or store keys. After installation, reload the agent and check its skill list. In clients with explicit skill commands, invoke `systeme-io` using the client's own syntax.
@@ -139,10 +135,11 @@ python -m unittest discover -s tests -v
 python skills/systeme-io/scripts/find_sources.py "email campaign"
 python scripts/refresh_sources.py
 python scripts/package.py
+python scripts/package.py --skill bundle
 ```
 
 Refreshing indexes public category metadata only. It honors robots.txt, bounds traversal and preserves the previous index on failure. It neither copies full help articles nor touches an account. There is no scheduled refresh unless you configure one yourself. The skill package requires no Python for reading; its optional helpers require Python 3.10+.
 
 ## Contribute
 
-Report the task, current official source and observed behavior. Redact credentials and customer data. Suggest focused workflow improvements rather than copying manuals or adding unsupported promises. Source articles and trademarks belong to their owners; the MIT license covers this project's original instructions and code. The bundled Anthropic skill retains its separate Apache-2.0 license.
+Report the task, current official source and observed behavior. Redact credentials and customer data. Suggest focused workflow improvements rather than copying manuals or adding unsupported promises. Source articles and trademarks belong to their owners; the MIT license covers this project's original instructions and code. Version 2 has no bundled third-party skill.

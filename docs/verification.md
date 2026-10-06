@@ -2,9 +2,11 @@
 
 Checked 6 October 2026.
 
-Version 1.1.0 adds the original landing-page/email bonus and Anthropic's unmodified Frontend Design skill. All three entrypoints passed the skill-creator validator. Eleven helper tests passed, including isolated installation of the bonus and upstream skill, preserved upstream licensing, bundle structure and unknown-skill rejection.
+Version 2.0.0 integrates the original page, copy and email guides into one self-contained Systeme.io skill. The version 1.1 third-party skill is removed; earlier release archives retain their own license notices. No external design skill is required.
 
-The upstream SKILL.md and LICENSE.txt were read through the connected GitHub MCP and verified against commit `683bc88e56f3e09ba94f7055977f3d3aa499f202`. Impeccable and Marketing Skills were researched as optional external additions, not installed or redistributed. No upstream installer or account operation was run for that research.
+Twelve helper tests passed, including complete isolated installation, readiness failure on a missing module, selective routing, unknown-skill rejection and the single-folder archive. Skill-creator validation and local link/encoding/credential-pattern checks passed. Readiness tests do not establish live account authentication.
+
+The entrypoint instructs selective guide loading; the router returns a maximum of four paths and reads no guide bodies. This is a structural/context-efficiency check, not an independent model token benchmark. No background retrieval process, automatic memory injection or scheduled refresh is installed.
 
 Design guidance covers audience context, authentic assets, desktop/mobile inspection, accessible states, factual copy, matched email sequences and measurement. No landing-page experiment was run; professional guidance is not evidence of increased conversion. No claim of testing every AI client is made.
 

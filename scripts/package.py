@@ -5,7 +5,7 @@ from zipfile import ZipFile, ZIP_DEFLATED
 
 ROOT = Path(__file__).resolve().parents[1]
 
-SKILLS = ('systeme-io', 'landing-page-email-design', 'frontend-design')
+SKILLS = ('systeme-io',)
 
 def package(output, skill='systeme-io'):
     if skill not in (*SKILLS, 'bundle'): raise ValueError('Unknown skill')

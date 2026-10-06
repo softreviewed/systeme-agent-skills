@@ -1,6 +1,6 @@
 ---
 name: systeme-io
-description: Plan, build, manage and troubleshoot Systeme.io websites, link-in-bio pages, sales funnels, email campaigns, automation, contacts, courses, payments and account integrations. Use for Systeme.io account work or guidance; discover current official help and connected capabilities before acting.
+description: Build and manage Systeme.io websites, landing pages, link-in-bio pages, sales funnels, copy, email campaigns, automation, contacts, courses and payments. Use for Systeme.io setup, design, marketing, account operations or troubleshooting. Load only the task-specific guide and verify connected capabilities before acting.
 license: MIT
 ---
 
@@ -12,7 +12,9 @@ Turn a user's business goal into a checked Systeme.io workflow. This independent
 
 Identify the desired outcome, existing asset and affected account. Inspect connected account inventory when available before asking for URLs or identifiers. Ask only for missing decisions that affect the result. Prefer editing the selected asset to creating a duplicate.
 
-Read [tool routing](references/tools.md), then only the relevant guide below. The guides are original operating instructions, not copies of the help centre.
+On first use after installation or an explicit setup request, read [getting started](references/getting-started.md). Otherwise go straight to the task. This complete skill needs no separately installed design or marketing skill.
+
+Read only the relevant guide below. Read [tool routing](references/tools.md) when an account action or connection is needed. Do not open all guides, the full source index or every available connector schema preemptively. The guides are original operating instructions, not copies of the help centre.
 
 | Task | Read |
 |---|---|
@@ -25,6 +27,14 @@ Read [tool routing](references/tools.md), then only the relevant guide below. Th
 | Payment gateways, offers, recurring purchases, coupons | [Payments](references/payments.md) |
 | Affiliate setup, booking calendar, physical products | [Other workflows](references/other-workflows.md) |
 | A failure, incomplete task or conflicting guidance | [Troubleshooting](references/troubleshooting.md) |
+| Page appearance, spacing, visual hierarchy, mobile layout | [Page design](references/campaign/visual-design.md) |
+| Landing-page message, offer, headlines, CTA, SEO copy | [Audience and copy](references/campaign/audience-copy.md) |
+| Write welcome, nurture or onboarding emails | [Email writing](references/campaign/email-campaigns.md) |
+| Page/campaign review, conversion testing | [Quality and experiments](references/campaign/quality-experiments.md) |
+
+For a complete page-and-email campaign, begin with audience/copy and the appropriate platform guide; open design and email writing only at those stages. For a simple access or tag change, skip all design and marketing guides. Use [the campaign worksheet](assets/campaign-worksheet.md) only when creating a campaign deliverable.
+
+Optional routing helper: `python scripts/route_task.py "fix mobile spacing on my landing page"` returns up to four relevant paths without reading their bodies. Execute from this skill directory or use its absolute script path. The table is the fallback when Python is unavailable. Routing suggests guides; it does not execute actions or replace judgment.
 
 ## Find current guidance
 

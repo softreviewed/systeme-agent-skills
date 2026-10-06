@@ -8,6 +8,10 @@ Define roles in `DESIGN.md`: heading/body type, text and background colors, prim
 
 ## Layout decisions
 
+For Systeme.io, identify whether the selected asset is a website page, funnel step or blog template before editing. Use supported native blocks where practical. If custom HTML/CSS is needed, scope selectors to that content and check platform-generated styles for button and heading conflicts. A shared blog template can affect many posts: inspect that scope before changing it. Match forms and checkout buttons to the existing step and offer; appearance alone does not connect a signup workflow.
+
+Use a course page to explain curriculum and access before enrolment; a link-in-bio page to prioritize a few real destinations; and a pricing page to make billing period, allowance and fit easy to compare. Keep the page's main action continuous through confirmation, access and the first email.
+
 - Give the hero a clear benefit, an appropriate visual and one primary action. Align adjacent content rather than forcing symmetry.
 - Keep prose comfortably narrow. Use wider space for demonstrations, comparisons or diagrams only when useful.
 - Separate sections with meaningful whitespace. Use fewer columns as the screen narrows; do not shrink text to preserve a desktop grid.
