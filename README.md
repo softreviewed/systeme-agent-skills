@@ -1,5 +1,7 @@
 # Systeme.io Agent Skills: Use AI to Build a Free Website, Create a Link-in-Bio Page and Manage Email Marketing
 
+![Manage Systeme.io with AI: one skill for pages, copy, email and automation](docs/images/cover.png)
+
 **Give your assistant a practical Systeme.io playbook, from a first page to customer follow-up.**
 
 You have a business idea, a few useful links and something to offer. This skill helps an agent turn that into a clear workflow: choose the right builder, create the page, capture subscribers and configure follow-up using the tools you connect.
@@ -13,6 +15,8 @@ Your goal -> relevant workflow -> current official guidance -> supported action 
 Built by [SoftReviewed](https://softreviewed.com/). Independent community project; not affiliated with or endorsed by Systeme.io.
 
 ## What can it help you do?
+
+![Why the Systeme.io skill helps, what the toolkit includes, installation steps and selective guide loading](docs/images/infographic.png)
 
 | Your goal | How the skill helps |
 |---|---|
