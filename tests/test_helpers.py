@@ -19,6 +19,30 @@ finder = load('finder', ROOT/'skills/systeme-io/scripts/find_sources.py')
 refresh = load('refresh', ROOT/'scripts/refresh_sources.py')
 
 class Helpers(unittest.TestCase):
+    def test_bonus_and_upstream_install(self):
+        with tempfile.TemporaryDirectory() as temp:
+            for name in ('landing-page-email-design', 'frontend-design'):
+                dest = installer.install(Path(temp)/name, name)
+                self.assertTrue((dest/'SKILL.md').exists())
+                if name == 'frontend-design':
+                    self.assertTrue((dest/'LICENSE.txt').exists())
+                    self.assertFalse((dest/'LICENSE').exists())
+                    self.assertTrue((dest/'UPSTREAM.md').exists())
+                else:
+                    self.assertTrue((dest/'assets/campaign-worksheet.md').exists())
+                    self.assertTrue((dest/'references/visual-design.md').exists())
+                    self.assertTrue((dest/'LICENSE').exists())
+    def test_bundle_preserves_separate_licenses(self):
+        with tempfile.TemporaryDirectory() as temp:
+            with ZipFile(packager.package(Path(temp)/'bundle.zip', 'bundle')) as z:
+                for name in packager.SKILLS: self.assertIn(name+'/SKILL.md', z.namelist())
+                self.assertIn('frontend-design/LICENSE.txt', z.namelist())
+                self.assertNotIn('frontend-design/LICENSE', z.namelist())
+                self.assertIn('landing-page-email-design/LICENSE', z.namelist())
+                self.assertFalse(any('__pycache__' in p or '..' in p for p in z.namelist()))
+    def test_unknown_skill_rejected(self):
+        with self.assertRaises(ValueError): installer.install(ROOT/'scratch/unknown', 'unknown')
+        with self.assertRaises(ValueError): packager.package(ROOT/'scratch/unknown.zip', 'unknown')
     def test_existing_install_preserved(self):
         with tempfile.TemporaryDirectory() as temp:
             dest = Path(temp)/'systeme-io';dest.mkdir(); (dest/'mine.txt').write_text('preserve')

@@ -8,13 +8,15 @@ SKILL = ROOT/'skills/systeme-io'
 
 def validate():
     errors = []
-    entry = (SKILL/'SKILL.md').read_text(encoding='utf-8')
-    if not entry.startswith('---\n'): errors.append('Missing frontmatter')
-    name = re.search(r'^name: (.+)$', entry, re.M)
-    if not name or name.group(1) != SKILL.name: errors.append('Name must match skill folder')
-    description = re.search(r'^description: (.+)$', entry, re.M)
-    if not description or not 1 <= len(description.group(1)) <= 1024: errors.append('Invalid description')
-    if len(entry.splitlines()) >= 500: errors.append('Entrypoint too long')
+    for folder in (ROOT/'skills').iterdir():
+        if not folder.is_dir(): continue
+        entry = (folder/'SKILL.md').read_text(encoding='utf-8')
+        if not entry.startswith('---\n'): errors.append(folder.name+' missing frontmatter')
+        name = re.search(r'^name: (.+)$', entry, re.M)
+        if not name or name.group(1) != folder.name: errors.append(folder.name+' name must match folder')
+        description = re.search(r'^description: (.+)$', entry, re.M)
+        if not description or not 1 <= len(description.group(1)) <= 1024: errors.append(folder.name+' invalid description')
+        if len(entry.splitlines()) >= 500: errors.append(folder.name+' entrypoint too long')
     sources = json.loads((SKILL/'references/source-index.json').read_text(encoding='utf-8'))
     urls = [a['url'] for a in sources['articles']]
     if len(urls) != len(set(urls)): errors.append('Duplicate source URLs')

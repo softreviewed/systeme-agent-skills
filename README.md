@@ -35,6 +35,33 @@ The index contains titles and URLs, not copied article bodies. Link discovery is
 
 ## Install
 
+### Included bonus: landing pages, copy and email
+
+The complete bundle contains three independently installable skills:
+
+| Skill | What it teaches the agent |
+|---|---|
+| `systeme-io` | Current platform workflows, connected actions and verification |
+| `landing-page-email-design` | Audience research, useful copy, page structure, matched email follow-up and testing |
+| `frontend-design` | Anthropic's standalone guidance for intentional layout, typography and visual critique |
+
+[Download the complete bundle](https://github.com/softreviewed/systeme-agent-skills/releases/latest/download/systeme-agent-skills-bundle.zip). Extract each selected folder into one supported skills directory. Keep its reference and license files. The bonus can be used on other platforms too; none of these files guarantees conversions or provides an account connection.
+
+The Frontend Design skill is bundled under Apache-2.0 with its original license and [source attribution](skills/frontend-design/UPSTREAM.md). SoftReviewed's original skills and helpers remain MIT licensed. This is an independent collection, not an Anthropic or Systeme.io endorsement.
+
+Use the journey: audience question -> clear offer -> distinctive page -> useful email follow-up -> rendered review -> measured results.
+
+Example request:
+
+> Use landing-page-email-design and frontend-design to draft a professional course signup page and matching welcome emails. Use my real branding and proof. Use systeme-io for supported platform implementation. Show the desktop and mobile result and verify the links before publishing within my authorized scope.
+
+Optional external additions reviewed through the GitHub MCP:
+
+- [Impeccable](https://github.com/pbakaus/impeccable): broader design refinement, browser iteration and tooling. Apache-2.0; not bundled because its full setup is separate from these portable instruction folders.
+- [Corey Haines' Marketing Skills](https://github.com/coreyhaines31/marketingskills): copywriting, email sequences and conversion reviews. MIT; optional separate installation. Treat examples, suggested timing and performance claims as items to verify against your own audience and evidence.
+
+No external installer is run automatically. Inspect the selected upstream version and its dependencies before installing.
+
 ### Easiest: ask your agent
 
 Give a filesystem-capable agent this repository link and ask:
@@ -65,6 +92,8 @@ git clone https://github.com/softreviewed/systeme-agent-skills.git
 cd systeme-agent-skills
 python scripts/install.py --destination "~/.agents/skills/systeme-io" --dry-run
 python scripts/install.py --destination "~/.agents/skills/systeme-io"
+python scripts/install.py --skill landing-page-email-design --destination "~/.agents/skills/landing-page-email-design"
+python scripts/install.py --skill frontend-design --destination "~/.agents/skills/frontend-design"
 ```
 
 For Claude Code or Antigravity, replace the destination using the table. The installer refuses to overwrite an existing skill. It does not edit agent settings, install an MCP or store keys. After installation, reload the agent and check its skill list. In clients with explicit skill commands, invoke `systeme-io` using the client's own syntax.
@@ -116,4 +145,4 @@ Refreshing indexes public category metadata only. It honors robots.txt, bounds t
 
 ## Contribute
 
-Report the task, current official source and observed behavior. Redact credentials and customer data. Suggest focused workflow improvements rather than copying manuals or adding unsupported promises. Source articles and trademarks belong to their owners; the MIT license covers this project's original instructions and code.
+Report the task, current official source and observed behavior. Redact credentials and customer data. Suggest focused workflow improvements rather than copying manuals or adding unsupported promises. Source articles and trademarks belong to their owners; the MIT license covers this project's original instructions and code. The bundled Anthropic skill retains its separate Apache-2.0 license.
