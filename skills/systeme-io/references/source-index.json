@@ -1,0 +1,2968 @@
+{
+  "checked_at": "2026-10-06T10:13:25.930879+00:00",
+  "scope": "English help category pages and their observed pagination",
+  "article_bodies_copied": false,
+  "categories": {
+    "https://help.systeme.io/category/160-affiliation": "Affiliation 12 articles",
+    "https://help.systeme.io/category/173-how-to-create-a-blog": "Blog 12 articles",
+    "https://help.systeme.io/category/10606-booking-calendar": "Booking calendar 7 articles",
+    "https://help.systeme.io/category/537-contacts-management": "Contact management 9 articles",
+    "https://help.systeme.io/category/163-courses-member-sites": "Courses 38 articles",
+    "https://help.systeme.io/category/165-support": "Customer support 8 articles",
+    "https://help.systeme.io/category/3251-deliverability": "",
+    "https://help.systeme.io/category/167-editor": "Editor 36 articles",
+    "https://help.systeme.io/category/156-emails": "Emails 30 articles",
+    "https://help.systeme.io/category/131-general": "General 95 articles",
+    "https://help.systeme.io/category/2297-migrating-to-systemeio": "Migrating to systeme.io 8 articles",
+    "https://help.systeme.io/category/11216-model-context-protocol-mcp": "Model Context Protocol (MCP) 11 articles",
+    "https://help.systeme.io/category/538-payments": "Payments 23 articles",
+    "https://help.systeme.io/category/146-sales-funnel": "Sales funnels 37 articles"
+  },
+  "category_pages_checked": 25,
+  "articles": [
+    {
+      "url": "https://help.systeme.io/article/273-is-it-possible-to-modify-the-automatic-email-that-gives-access-to-a-course",
+      "title": "Can the automated email that gives access details for a course be modified?",
+      "title_from_slug": false,
+      "categories": [
+        "Courses 38 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/1690-create-blog-category",
+      "title": "create blog category",
+      "title_from_slug": true,
+      "categories": [
+        "Blog 12 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/298-how-systeme-io-customer-support-works",
+      "title": "Customer support: How to get help",
+      "title_from_slug": false,
+      "categories": [
+        "Customer support 8 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/1696-details-about-the-fields-required-when-creating-a-blog-category",
+      "title": "Details about the fields required when creating a blog category",
+      "title_from_slug": false,
+      "categories": [
+        "Blog 12 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/10240-dmarc-reports-how-to-read-and-use-them",
+      "title": "DMARC Reports: How to read and use them",
+      "title_from_slug": false,
+      "categories": [
+        ""
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/4468-do-you-need-a-dedicated-ip-to-send-emails-with-systeme-io",
+      "title": "Do you need a dedicated IP to send emails with systeme.io?",
+      "title_from_slug": false,
+      "categories": [
+        ""
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/1971-does-systeme-io-offer-live-chat-support",
+      "title": "Does systeme.io offer Live Chat support?",
+      "title_from_slug": false,
+      "categories": [
+        "Customer support 8 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/4472-does-systeme-io-work-with-large-email-lists",
+      "title": "Does systeme.io work with large email lists?",
+      "title_from_slug": false,
+      "categories": [
+        ""
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/11009-dont-risk-getting-blocke-identify-your-compliant-and-non-compliant-lists",
+      "title": "Don't risk getting blocked: identify your compliant and non-compliant lists",
+      "title_from_slug": false,
+      "categories": [
+        ""
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/10452-email-deliverability-how-spam-filters-work",
+      "title": "Email deliverability: how spam filters work",
+      "title_from_slug": false,
+      "categories": [
+        ""
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/4346-essential-steps-to-import-contacts-successfully",
+      "title": "Essential steps to import contacts successfully",
+      "title_from_slug": false,
+      "categories": [
+        ""
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/313-facebook-group-rules",
+      "title": "Facebook group rules",
+      "title_from_slug": false,
+      "categories": [
+        "Customer support 8 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/4247-general-guidelines-and-best-practices-for-email-deliverability-during-the-first-few-days",
+      "title": "General guidelines and best practices for email deliverability during the first few days",
+      "title_from_slug": false,
+      "categories": [
+        ""
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/363-good-practices-for-deliverability",
+      "title": "Good practices for email deliverability",
+      "title_from_slug": false,
+      "categories": [
+        ""
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/11171-google-postmaster-tools-an-ally-for-your-deliverability",
+      "title": "Google Postmaster Tools: an ally for your deliverability",
+      "title_from_slug": false,
+      "categories": [
+        ""
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/4338-having-an-issue-with-your-order-heres-how-to-resolve-it-without-opening-a-dispute",
+      "title": "Having an issue with your order? Here's how to resolve it without opening a dispute",
+      "title_from_slug": false,
+      "categories": [
+        "Payments 23 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/301-what-is-the-difference-between-full-drip-content-access-and-partial-access-type",
+      "title": "How are the different course access types different?",
+      "title_from_slug": false,
+      "categories": [
+        "Courses 38 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/140-automation-rules",
+      "title": "How automation rules work",
+      "title_from_slug": false,
+      "categories": [
+        "General 95 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/3990-how-can-i-prevent-list-bombing",
+      "title": "How can I prevent list bombing?",
+      "title_from_slug": false,
+      "categories": [
+        ""
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/11133-how-can-phishing-impact-your-marketing-emails",
+      "title": "How can phishing impact your marketing emails?",
+      "title_from_slug": false,
+      "categories": [
+        ""
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/2145-how-do-you-control-access-to-resources-for-subscriptions",
+      "title": "How do you control access to subscription resources?",
+      "title_from_slug": false,
+      "categories": [
+        "General 95 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/4512-how-much-does-it-cost-to-send-1-million-emails-a-month-with-systeme-io",
+      "title": "How much does it cost to send 1 million emails a month with systeme.io?",
+      "title_from_slug": false,
+      "categories": [
+        "Emails 30 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/1509-how-systeme-io-subscription-plans-are-moderated",
+      "title": "How systeme.io subscription plans are moderated",
+      "title_from_slug": false,
+      "categories": [
+        "General 95 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/162-how-the-systeme-io-affiliate-program-works",
+      "title": "How the systeme.io affiliate program works",
+      "title_from_slug": false,
+      "categories": [
+        "Affiliation 12 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/325-how-to-access-to-the-editor-of-a-page",
+      "title": "How to access the page editor",
+      "title_from_slug": false,
+      "categories": [
+        "Editor 36 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/11336-how-to-access-your-domains-sitemap",
+      "title": "How to access your domain's sitemap",
+      "title_from_slug": false,
+      "categories": [
+        "General 95 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/1650-how-to-access-your-student-dashboard",
+      "title": "How to access your student dashboard",
+      "title_from_slug": false,
+      "categories": [
+        "Courses 38 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/277-how-to-activate-a-funnel",
+      "title": "How to activate a funnel",
+      "title_from_slug": false,
+      "categories": [
+        "Sales funnels 37 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/307-how-to-activate-payments-by-stripe-or-paypal",
+      "title": "How to activate payments by Stripe or Paypal",
+      "title_from_slug": false,
+      "categories": [
+        "Sales funnels 37 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/1673-how-to-add-a-captcha-on-a-contact-us-page",
+      "title": "How to add a CAPTCHA to a Contact us page",
+      "title_from_slug": false,
+      "categories": [
+        "General 95 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/324-how-to-add-a-checkbox",
+      "title": "How to add a checkbox to your page",
+      "title_from_slug": false,
+      "categories": [
+        "Editor 36 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/1718-add-comments-to-course",
+      "title": "How to add a comment section to your course",
+      "title_from_slug": false,
+      "categories": [
+        "Courses 38 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/310-how-to-add-a-contact-manually",
+      "title": "How to add a contact manually",
+      "title_from_slug": false,
+      "categories": [
+        "Contact management 9 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/172-how-to-add-a-custom-form-field",
+      "title": "How to add a custom form input field",
+      "title_from_slug": false,
+      "categories": [
+        "Editor 36 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/4239-how-to-add-a-dmarc-record-on-cloudflare",
+      "title": "How to add a DMARC record on Cloudflare",
+      "title_from_slug": false,
+      "categories": [
+        ""
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/3931-how-to-add-a-dmarc-record-on-godaddy",
+      "title": "How to add a DMARC record on GoDaddy",
+      "title_from_slug": false,
+      "categories": [
+        ""
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/4257-how-to-add-a-dmarc-record-on-hostinger",
+      "title": "How to add a DMARC record on Hostinger",
+      "title_from_slug": false,
+      "categories": [
+        ""
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/3943-how-to-add-a-dmarc-record-on-infomaniak",
+      "title": "How to add a DMARC record on Infomaniak",
+      "title_from_slug": false,
+      "categories": [
+        ""
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/3964-how-to-add-a-dmarc-record-on-ionos",
+      "title": "How to add a DMARC record on IONOS",
+      "title_from_slug": false,
+      "categories": [
+        ""
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/4342-how-to-add-a-dmarc-record-on-lws",
+      "title": "How to add a DMARC record on LWS",
+      "title_from_slug": false,
+      "categories": [
+        ""
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/4233-how-to-add-a-dmarc-record-on-namecheap",
+      "title": "How to add a DMARC record on Namecheap",
+      "title_from_slug": false,
+      "categories": [
+        ""
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/340-how-to-add-a-downloadable-file",
+      "title": "How to add a downloadable file",
+      "title_from_slug": false,
+      "categories": [
+        "Editor 36 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/1662-how-to-add-a-form-input",
+      "title": "How to add a form field and a form element to your page",
+      "title_from_slug": false,
+      "categories": [
+        "Editor 36 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/414-how-to-add-a-form-or-a-popup-on-your-system-io-blog",
+      "title": "How to add a form or a popup on your systeme.io blog",
+      "title_from_slug": false,
+      "categories": [
+        "Blog 12 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/2102-how-to-add-a-method-for-receiving-commissions",
+      "title": "How to add a method for receiving commissions",
+      "title_from_slug": false,
+      "categories": [
+        "Affiliation 12 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/360-how-to-add-a-pdf-file-into-a-page",
+      "title": "How to add a PDF file to a page",
+      "title_from_slug": false,
+      "categories": [
+        "Editor 36 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/409-how-to-add-a-popup-to-a-page",
+      "title": "How to add a popup to a page",
+      "title_from_slug": false,
+      "categories": [
+        "Editor 36 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/2009-how-to-add-a-profile-picture-to-your-systeme-io-account",
+      "title": "How to add a profile picture to your systeme.io account",
+      "title_from_slug": false,
+      "categories": [
+        "General 95 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/1398-how-to-use-the-survey-element",
+      "title": "How to add a survey to your page",
+      "title_from_slug": false,
+      "categories": [
+        "Editor 36 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/1508-how-to-tag-an-affiliate-link",
+      "title": "How to add a tag to your affiliate link",
+      "title_from_slug": false,
+      "categories": [
+        "Affiliation 12 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/4246-how-to-set-up-a-test-email-address-to-check-your-emails",
+      "title": "How to add a test email address to check your emails",
+      "title_from_slug": false,
+      "categories": [
+        "Emails 30 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/624-how-to-add-a-video-into-a-page",
+      "title": "How to add a video to a page",
+      "title_from_slug": false,
+      "categories": [
+        "Editor 36 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/331-how-to-integrate-the-affiliate-badge-on-your-page-to-earn-lifetime-commissions",
+      "title": "How to add an affiliate badge to your page and earn lifetime commissions",
+      "title_from_slug": false,
+      "categories": [
+        "Editor 36 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/258-how-to-set-up-an-anchor",
+      "title": "How to add an anchor link to jump to a specific part of your page",
+      "title_from_slug": false,
+      "categories": [
+        "Editor 36 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/1600-how-to-use-faq-element",
+      "title": "How to add an FAQ section to your page",
+      "title_from_slug": false,
+      "categories": [
+        "Editor 36 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/341-how-to-add-an-image-on-a-page",
+      "title": "How to add an image to a page",
+      "title_from_slug": false,
+      "categories": [
+        "Editor 36 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/154-how-to-add-an-order-bump-to-a-payment-page",
+      "title": "How to add an order bump to an order form/payment page",
+      "title_from_slug": false,
+      "categories": [
+        "Sales funnels 37 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/342-how-to-add-and-edit-text",
+      "title": "How to add and edit text",
+      "title_from_slug": false,
+      "categories": [
+        "Editor 36 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/355-how-to-insert-an-audio-file-on-a-page",
+      "title": "How to add audio to your page",
+      "title_from_slug": false,
+      "categories": [
+        "Editor 36 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/1632-how-to-add-facebook-pixel-and-setup-events",
+      "title": "How to add Facebook Pixel and setup events",
+      "title_from_slug": false,
+      "categories": [
+        "General 95 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/362-how-to-integrate-an-image-in-the-email-body",
+      "title": "How to add images to your emails",
+      "title_from_slug": false,
+      "categories": [
+        "Emails 30 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/3756-how-to-add-shipping-costs-to-the-sale-of-a-physical-product",
+      "title": "How to add shipping fees to your physical products",
+      "title_from_slug": false,
+      "categories": [
+        "General 95 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/445-how-to-add-subtitles-to-a-button",
+      "title": "How to add subtext to a button",
+      "title_from_slug": false,
+      "categories": [
+        "Editor 36 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/352-how-to-add-the-order-summary-on-the-thank-you-page",
+      "title": "How to add the order summary to the \"Thank You\" page",
+      "title_from_slug": false,
+      "categories": [
+        "Payments 23 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/365-add-the-terms-and-conditions-to-pages",
+      "title": "How to add the terms and conditions to your pages",
+      "title_from_slug": false,
+      "categories": [
+        "General 95 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/1664-how-to-add-the-x-share-button-to-a-page",
+      "title": "How to add the X share button to a page",
+      "title_from_slug": false,
+      "categories": [
+        "Editor 36 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/316-how-to-authenticate-your-personal-domain-name",
+      "title": "How to authenticate your domain name for email sending",
+      "title_from_slug": false,
+      "categories": [
+        ""
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/4240-how-to-authenticate-your-domain-name-on-cloudflare",
+      "title": "How to authenticate your domain name on Cloudflare",
+      "title_from_slug": false,
+      "categories": [
+        ""
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/3933-how-to-authenticate-your-domain-name-on-godaddy",
+      "title": "How to authenticate your domain name on GoDaddy",
+      "title_from_slug": false,
+      "categories": [
+        ""
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/4258-how-to-authenticate-your-domain-name-on-hostinger",
+      "title": "How to authenticate your domain name on Hostinger",
+      "title_from_slug": false,
+      "categories": [
+        ""
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/3942-how-to-authenticate-your-domain-name-on-infomaniak",
+      "title": "How to authenticate your domain name on Infomaniak",
+      "title_from_slug": false,
+      "categories": [
+        ""
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/3965-how-to-authenticate-your-domain-name-on-ionos",
+      "title": "How to authenticate your domain name on IONOS",
+      "title_from_slug": false,
+      "categories": [
+        ""
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/7851-how-to-authenticate-your-domain-on-lws",
+      "title": "How to authenticate your domain name on LWS",
+      "title_from_slug": false,
+      "categories": [
+        ""
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/4234-how-to-authenticate-your-domain-name-on-namecheap",
+      "title": "How to authenticate your domain name on Namecheap",
+      "title_from_slug": false,
+      "categories": [
+        ""
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/1527-how-to-automate-affiliate-payouts-with-paypal",
+      "title": "How to automate affiliate payouts with PayPal",
+      "title_from_slug": false,
+      "categories": [
+        "Affiliation 12 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/4216-how-to-automate-the-process-of-cleaning-up-your-contact-list",
+      "title": "How to automate the process of cleaning up your contact list",
+      "title_from_slug": false,
+      "categories": [
+        ""
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/284-how-to-automate-the-sending-of-a-series-of-emails-campaign",
+      "title": "How to automate the sending of an email sequence (email campaign)",
+      "title_from_slug": false,
+      "categories": [
+        "Emails 30 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/348-how-to-automatically-and-manually-add-tags-to-your-contacts",
+      "title": "How to automatically and manually add tags to your contacts",
+      "title_from_slug": false,
+      "categories": [
+        "Contact management 9 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/280-how-to-send-an-automatic-email-when-a-lead-subscribes",
+      "title": "How to automatically send an email when a lead subscribes",
+      "title_from_slug": false,
+      "categories": [
+        "General 95 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/1006-how-to-build-a-custom-login-page",
+      "title": "How to build a custom login page",
+      "title_from_slug": false,
+      "categories": [
+        "General 95 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/1602-how-to-build-your-contact-list-using-a-sales-funnel",
+      "title": "How to build your contact list using a funnel",
+      "title_from_slug": false,
+      "categories": [
+        "Sales funnels 37 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/137-how-to-cancel-a-customers-subscription",
+      "title": "How to cancel a customer's subscription",
+      "title_from_slug": false,
+      "categories": [
+        "General 95 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/1758-how-to-cancel-a-subscription-to-systeme-io",
+      "title": "How to cancel a subscription to systeme.io or an offer hosted on systeme.io",
+      "title_from_slug": false,
+      "categories": [
+        "General 95 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/264-cancel-subscription-systeme",
+      "title": "How to cancel systeme.io subscription",
+      "title_from_slug": false,
+      "categories": [
+        "General 95 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/345-how-to-change-the-domain-name-of-a-funnel",
+      "title": "How to change a funnel's domain name",
+      "title_from_slug": false,
+      "categories": [
+        "Sales funnels 37 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/322-how-to-change-the-url-path-of-a-page",
+      "title": "How to change a page's URL path",
+      "title_from_slug": false,
+      "categories": [
+        "Sales funnels 37 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/11047-how-to-change-a-students-course-access-type",
+      "title": "How to change a student's course access type",
+      "title_from_slug": false,
+      "categories": [
+        "Courses 38 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/1969-is-it-possible-to-change-the-currency-of-an-existent-sales-funnel",
+      "title": "How to change the currency of an existing sales funnel",
+      "title_from_slug": false,
+      "categories": [
+        "Sales funnels 37 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/267-how-to-change-the-default-currency-of-your-offers",
+      "title": "How to change the default currency of your offers",
+      "title_from_slug": false,
+      "categories": [
+        "Sales funnels 37 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/2485-how-to-change-the-email-address-used-for-your-systeme-io-account",
+      "title": "How to change the email address used for your systeme.io account",
+      "title_from_slug": false,
+      "categories": [
+        "General 95 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/150-how-to-change-the-favicon-of-my-pages",
+      "title": "How to change the favicon of your pages",
+      "title_from_slug": false,
+      "categories": [
+        "Sales funnels 37 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/278-how-to-change-the-senders-email-address",
+      "title": "How to change the sender's email address",
+      "title_from_slug": false,
+      "categories": [
+        "Emails 30 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/288-how-to-change-the-sending-name-of-your-emails",
+      "title": "How to change the sender's name for your emails",
+      "title_from_slug": false,
+      "categories": [
+        "Emails 30 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/1761-how-to-modify-the-systeme-io-subdomain",
+      "title": "How to change the systeme.io subdomain",
+      "title_from_slug": false,
+      "categories": [
+        "General 95 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/350-how-to-change-the-title-of-a-page",
+      "title": "How to change the title of a page",
+      "title_from_slug": false,
+      "categories": [
+        "Editor 36 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/260-how-to-charge-vat-to-your-customers",
+      "title": "How to charge VAT to your customers",
+      "title_from_slug": false,
+      "categories": [
+        "General 95 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/285-how-to-compress-a-video-with-handbrake",
+      "title": "How to compress a video with Handbrake",
+      "title_from_slug": false,
+      "categories": [
+        "General 95 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/170-how-to-set-up-a-button",
+      "title": "How to configure a button",
+      "title_from_slug": false,
+      "categories": [
+        "Editor 36 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/330-how-to-link-between-the-pages-of-a-funnel",
+      "title": "How to configure links between funnel pages",
+      "title_from_slug": false,
+      "categories": [
+        "Sales funnels 37 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/1719-facebook-conversions-api",
+      "title": "How to configure the Facebook Conversions API on systeme.io",
+      "title_from_slug": false,
+      "categories": [
+        "General 95 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/279-how-to-program-the-sending-of-webinar-emails",
+      "title": "How to configure the sending of webinar emails",
+      "title_from_slug": false,
+      "categories": [
+        "Emails 30 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/1691-post-list-page-set-up",
+      "title": "How to configure your blog's post list page",
+      "title_from_slug": false,
+      "categories": [
+        "Blog 12 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/2070-how-to-confirm-your-email-sender-address",
+      "title": "How to confirm your email sender address",
+      "title_from_slug": false,
+      "categories": [
+        "Emails 30 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/4237-how-to-connect-your-cloudflare-domain-to-systeme-io",
+      "title": "How to connect your Cloudflare domain to systeme.io",
+      "title_from_slug": false,
+      "categories": [
+        "General 95 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/4238-how-to-connect-your-cloudflare-subdomain-to-systeme-io",
+      "title": "How to connect your Cloudflare subdomain to systeme.io",
+      "title_from_slug": false,
+      "categories": [
+        "General 95 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/135-how-to-connect-your-domain-to-systemeio",
+      "title": "How to connect your domain to systeme.io",
+      "title_from_slug": false,
+      "categories": [
+        "General 95 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/141-how-to-connect-your-godaddy-domain-to-systemeio",
+      "title": "How to connect your GoDaddy domain to systeme.io",
+      "title_from_slug": false,
+      "categories": [
+        "General 95 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/214-how-to-connect-your-godaddy-subdomain-to-systemeio",
+      "title": "How to connect your GoDaddy subdomain to systeme.io",
+      "title_from_slug": false,
+      "categories": [
+        "General 95 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/4262-how-to-connect-your-hostinger-domain-to-systeme-io",
+      "title": "How to connect your Hostinger domain to systeme.io",
+      "title_from_slug": false,
+      "categories": [
+        "General 95 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/4261-how-to-connect-your-hostinger-subdomain-to-systeme-io",
+      "title": "How to connect your Hostinger subdomain to systeme.io",
+      "title_from_slug": false,
+      "categories": [
+        "General 95 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/3944-how-to-connect-your-infomaniak-domain-to-systeme-io",
+      "title": "How to connect your Infomaniak domain to systeme.io",
+      "title_from_slug": false,
+      "categories": [
+        "General 95 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/3945-how-to-connect-your-infomaniak-subdomain-to-systeme-io",
+      "title": "How to connect your Infomaniak subdomain to systeme.io",
+      "title_from_slug": false,
+      "categories": [
+        "General 95 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/3962-how-to-connect-your-ionos-domain-to-systeme-io",
+      "title": "How to connect your IONOS domain to systeme.io",
+      "title_from_slug": false,
+      "categories": [
+        "General 95 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/3963-how-to-connect-your-ionos-subdomain-to-systeme-io",
+      "title": "How to connect your IONOS subdomain to systeme.io",
+      "title_from_slug": false,
+      "categories": [
+        "General 95 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/4344-how-to-connect-your-lws-domain-to-systemeio",
+      "title": "How to connect your LWS domain to systeme.io",
+      "title_from_slug": false,
+      "categories": [
+        "General 95 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/4343-how-to-connect-your-lws-subdomain-to-systemeio",
+      "title": "How to connect your LWS subdomain to systeme.io",
+      "title_from_slug": false,
+      "categories": [
+        "General 95 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/4228-how-to-connect-your-namecheap-domain-to-systeme-io",
+      "title": "How to connect your Namecheap domain to systeme.io",
+      "title_from_slug": false,
+      "categories": [
+        "General 95 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/4235-how-to-connect-your-namecheap-subdomain-to-systeme-io",
+      "title": "How to connect your Namecheap subdomain to systeme.io",
+      "title_from_slug": false,
+      "categories": [
+        "General 95 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/145-ovh-dns-settings-root-domain",
+      "title": "How to connect your OVH domain to systeme.io",
+      "title_from_slug": false,
+      "categories": [
+        "General 95 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/215-ovh-dns-settings-subdomain",
+      "title": "How to connect your OVH subdomain to systeme.io",
+      "title_from_slug": false,
+      "categories": [
+        "General 95 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/225-how-to-connect-your-stripe-account-to-systeme-io",
+      "title": "How to connect your Stripe account to systeme.io",
+      "title_from_slug": false,
+      "categories": [
+        "Payments 23 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/11342-how-to-connect-your-systeme-io-account-to-chatgpt",
+      "title": "How to connect your systeme.io account to ChatGPT",
+      "title_from_slug": false,
+      "categories": [
+        "General 95 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/11229-how-to-connect-your-systemeio-account-with-chatgpt-using-mcp-keys",
+      "title": "How to connect your systeme.io account to ChatGPT using MCP keys",
+      "title_from_slug": false,
+      "categories": [
+        "Model Context Protocol (MCP) 11 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/11230-how-to-connect-your-systemeio-account-with-claude-using-mcp-keys",
+      "title": "How to connect your systeme.io account to Claude using MCP keys",
+      "title_from_slug": false,
+      "categories": [
+        "Model Context Protocol (MCP) 11 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/161-how-to-connect-your-transferwise-account-to-automate-payments-to-your-affiliates",
+      "title": "how to connect your transferwise account to automate payments to your affiliates",
+      "title_from_slug": true,
+      "categories": [
+        "Affiliation 12 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/166-how-to-contact-systeme-io-support",
+      "title": "How to contact systeme.io customer support",
+      "title_from_slug": false,
+      "categories": [
+        "Customer support 8 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/617-how-to-make-your-page-visible-or-not-visible-to-search-engines",
+      "title": "How to control your page's visibility on search engines",
+      "title_from_slug": false,
+      "categories": [
+        "Editor 36 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/2394-how-to-create-a-link-to-bio-page",
+      "title": "How to create a \"Link in bio\" page",
+      "title_from_slug": false,
+      "categories": [
+        "Sales funnels 37 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/641-how-to-create-a-blog-menu",
+      "title": "How to create a blog menu",
+      "title_from_slug": false,
+      "categories": [
+        "Blog 12 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/639-how-to-create-a-blog-page",
+      "title": "How to create a blog page",
+      "title_from_slug": false,
+      "categories": [
+        "Blog 12 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/359-how-to-create-a-blog-post",
+      "title": "How to create a blog post",
+      "title_from_slug": false,
+      "categories": [
+        "Blog 12 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/175-how-to-create-a-blog-with-systemeio",
+      "title": "How to create a blog with systeme.io",
+      "title_from_slug": false,
+      "categories": [
+        "Blog 12 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/1935-how-to-create-a-community",
+      "title": "How to create a community",
+      "title_from_slug": false,
+      "categories": [
+        "General 95 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/302-how-to-create-a-course-bundles",
+      "title": "How to create a course bundle",
+      "title_from_slug": false,
+      "categories": [
+        "Courses 38 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/164-how-to-create-a-course-using-systemeio",
+      "title": "How to create a course using systeme.io",
+      "title_from_slug": false,
+      "categories": [
+        "Courses 38 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/2108-how-to-create-a-custom-404-page",
+      "title": "How to create a custom error page (404 page)",
+      "title_from_slug": false,
+      "categories": [
+        "General 95 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/168-create-a-custom-page-how-systeme-io-editor-works",
+      "title": "How to create a custom page using systeme.io",
+      "title_from_slug": false,
+      "categories": [
+        "Editor 36 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/1574-how-to-create-a-deadline-for-a-sales-funnel",
+      "title": "How to create a deadline for a sales funnel",
+      "title_from_slug": false,
+      "categories": [
+        "Sales funnels 37 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/2241-how-to-create-a-dmarc-record",
+      "title": "How to create a DMARC record",
+      "title_from_slug": false,
+      "categories": [
+        ""
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/147-how-to-create-a-funnel",
+      "title": "How to create a funnel",
+      "title_from_slug": false,
+      "categories": [
+        "Sales funnels 37 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/2243-how-to-create-a-gpt-account-for-your-domain-name-and-allow-us-to-access-your-data5",
+      "title": "How to create a Google Postmaster Tool account for your domain",
+      "title_from_slug": false,
+      "categories": [
+        ""
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/8769-how-to-create-a-light-course",
+      "title": "How to create a light course",
+      "title_from_slug": false,
+      "categories": [
+        "Courses 38 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/509-how-to-create-a-master-block",
+      "title": "How to create a master block",
+      "title_from_slug": false,
+      "categories": [
+        "Editor 36 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/3900-how-to-create-a-pipeline",
+      "title": "How to create a pipeline",
+      "title_from_slug": false,
+      "categories": [
+        "General 95 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/1717-create-a-quiz",
+      "title": "How to create a quiz in a course module",
+      "title_from_slug": false,
+      "categories": [
+        "Courses 38 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/287-how-to-create-a-sales-page",
+      "title": "How to create a sales page",
+      "title_from_slug": false,
+      "categories": [
+        "Sales funnels 37 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/4243-how-to-create-a-sub-account-on-systeme-io",
+      "title": "How to create a sub-account on systeme.io",
+      "title_from_slug": false,
+      "categories": [
+        "General 95 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/303-how-to-create-a-tag",
+      "title": "How to create a tag",
+      "title_from_slug": false,
+      "categories": [
+        "Contact management 9 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/321-how-to-create-a-thank-you-page",
+      "title": "How to create a thank you page",
+      "title_from_slug": false,
+      "categories": [
+        "Sales funnels 37 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/4526-how-to-create-a-website",
+      "title": "How to create a website",
+      "title_from_slug": false,
+      "categories": [
+        "General 95 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/328-how-to-create-an-affiliate-link-from-a-system-io-blog-post",
+      "title": "How to create an affiliate link from a systeme.io blog post",
+      "title_from_slug": false,
+      "categories": [
+        "Affiliation 12 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/1426-how-to-create-an-affiliate-link-with-an-external-page-to-systeme-io",
+      "title": "How to create an affiliate proxy link with an external page to systeme.io",
+      "title_from_slug": false,
+      "categories": [
+        "Affiliation 12 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/10578-how-to-create-an-assignment-for-a-course-lecture",
+      "title": "How to create an assignment for a course lecture",
+      "title_from_slug": false,
+      "categories": [
+        "Courses 38 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/152-how-to-create-a-opt-in-page",
+      "title": "How to create an opt-in page",
+      "title_from_slug": false,
+      "categories": [
+        "Sales funnels 37 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/252-how-to-create-an-order-form-payment-page",
+      "title": "How to create an order form/payment page",
+      "title_from_slug": false,
+      "categories": [
+        "Sales funnels 37 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/243-how-to-create-an-upsell-and-a-downsell",
+      "title": "How to create an upsell and a downsell",
+      "title_from_slug": false,
+      "categories": [
+        "Sales funnels 37 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/247-how-to-create-and-add-a-coupon-code-to-your-order-form",
+      "title": "How to create and add a coupon code to your order form",
+      "title_from_slug": false,
+      "categories": [
+        "Sales funnels 37 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/153-how-to-create-and-configure-a-price-plan",
+      "title": "How to create and configure a price plan",
+      "title_from_slug": false,
+      "categories": [
+        "Sales funnels 37 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/699-how-to-set-up-your-own-affiliate-program",
+      "title": "How to create and configure your own affiliate program",
+      "title_from_slug": false,
+      "categories": [
+        "Affiliation 12 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/2929-how-to-create-and-manage-sub-accounts-for-an-agency-on-systeme-io",
+      "title": "How to create and manage sub-accounts for an agency on systeme.io",
+      "title_from_slug": false,
+      "categories": [
+        "General 95 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/292-how-to-create-and-sell-a-physical-product-on-systeme-io",
+      "title": "How to create and sell a physical product with systeme.io",
+      "title_from_slug": false,
+      "categories": [
+        "General 95 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/144-how-to-create-and-trigger-a-webhook-after-an-opt-in-or-a-sale",
+      "title": "How to create and trigger a webhook after an opt-in or a sale",
+      "title_from_slug": false,
+      "categories": [
+        "General 95 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/265-how-to-create-automated-webinars",
+      "title": "How to create automated webinars",
+      "title_from_slug": false,
+      "categories": [
+        "General 95 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/1542-workflow-feature",
+      "title": "How to create workflows in systeme.io",
+      "title_from_slug": false,
+      "categories": [
+        "General 95 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/626-how-to-deactivate-a-funnel",
+      "title": "How to deactivate a funnel",
+      "title_from_slug": false,
+      "categories": [
+        "Sales funnels 37 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/143-how-to-define-a-blog-or-a-page-created-with-systeme-io-as-your-domain-root",
+      "title": "How to define your domain's homepage",
+      "title_from_slug": false,
+      "categories": [
+        "General 95 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/2387-how-to-delete-a-funnel",
+      "title": "How to delete a funnel",
+      "title_from_slug": false,
+      "categories": [
+        "Sales funnels 37 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/2347-how-to-delete-a-newsletter",
+      "title": "How to delete a newsletter",
+      "title_from_slug": false,
+      "categories": [
+        "Emails 30 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/326-how-to-delete-a-price-list",
+      "title": "How to delete a price plan",
+      "title_from_slug": false,
+      "categories": [
+        "Sales funnels 37 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/309-how-to-delete-a-tag",
+      "title": "How to delete a tag",
+      "title_from_slug": false,
+      "categories": [
+        "Contact management 9 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/336-how-to-delete-an-email-campaign",
+      "title": "How to delete an email campaign",
+      "title_from_slug": false,
+      "categories": [
+        "Emails 30 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/627-how-to-delete-bounced-contacts",
+      "title": "How to delete bounced contacts",
+      "title_from_slug": false,
+      "categories": [
+        "Contact management 9 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/308-how-to-delete-multiple-contacts",
+      "title": "How to delete multiple contacts",
+      "title_from_slug": false,
+      "categories": [
+        "Contact management 9 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/294-how-to-send-an-automatic-email-containing-a-file-after-the-sale",
+      "title": "How to deliver digital products via email after a sale",
+      "title_from_slug": false,
+      "categories": [
+        "Emails 30 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/2957-how-to-prevent-students-from-downloading-videos-and-audios",
+      "title": "How to disable downloading of audio and video from course pages",
+      "title_from_slug": false,
+      "categories": [
+        "Courses 38 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/275-how-to-modify-the-instructor-s-information",
+      "title": "How to edit the course instructor's information",
+      "title_from_slug": false,
+      "categories": [
+        "Courses 38 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/266-how-to-create-and-integrate-a-form-or-a-popup-on-your-external-site",
+      "title": "How to embed a systeme.io form or popup on an external website",
+      "title_from_slug": false,
+      "categories": [
+        "General 95 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/346-how-to-export-a-students-session-log-report",
+      "title": "How to export a student's session log",
+      "title_from_slug": false,
+      "categories": [
+        "Courses 38 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/2006-how-to-export-multiple-invoices-of-your-customers-in-pdf-format",
+      "title": "How to export multiple customer invoices to PDF format",
+      "title_from_slug": false,
+      "categories": [
+        "General 95 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/11132-how-to-export-students-and-their-course-progress-data",
+      "title": "How to export students and their course progress data",
+      "title_from_slug": false,
+      "categories": [
+        "Courses 38 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/2007-how-to-export-the-transaction-summary-of-your-customers-on-an-excel-file",
+      "title": "How to export your transactions to CSV",
+      "title_from_slug": false,
+      "categories": [
+        "General 95 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/701-how-to-find-the-bank-details-of-its-affiliates-to-pay-them",
+      "title": "How to find the bank details of your affiliates",
+      "title_from_slug": false,
+      "categories": [
+        "Affiliation 12 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/3731-how-can-i-find-my-email-headers",
+      "title": "How to find your email headers",
+      "title_from_slug": false,
+      "categories": [
+        ""
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/270-page-not-responsive-mobile",
+      "title": "How to fix the mobile version of my page",
+      "title_from_slug": false,
+      "categories": [
+        "General 95 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/134-how-to-generate-api-key-from-sendgrid",
+      "title": "How to generate a SendGrid API key and add it to systeme.io",
+      "title_from_slug": false,
+      "categories": [
+        "Emails 30 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/2010-how-to-benefit-from-a-free-migration-to-systeme-io",
+      "title": "How to get a free migration to systeme.io",
+      "title_from_slug": false,
+      "categories": [
+        "Migrating to systeme.io 8 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/2933-how-to-give-free-access-to-a-course-bundle",
+      "title": "How to give free access to a course bundle",
+      "title_from_slug": false,
+      "categories": [
+        "Courses 38 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/2408-how-to-grant-access-to-a-course-automatically-after-optin-on-a-form",
+      "title": "How to grant access to a course automatically after opt-in on a form",
+      "title_from_slug": false,
+      "categories": [
+        "Courses 38 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/1619-how-to-set-a-specific-date-to-grant-access-to-a-course",
+      "title": "How to grant access to a course on a specific date",
+      "title_from_slug": false,
+      "categories": [
+        "Courses 38 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/1615-how-to-give-free-access-to-a-course",
+      "title": "How to grant free access to a course",
+      "title_from_slug": false,
+      "categories": [
+        "Courses 38 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/2506-how-to-host-and-share-a-file-on-systeme-io",
+      "title": "How to host and share files on systeme.io",
+      "title_from_slug": false,
+      "categories": [
+        "General 95 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/300-host-videos",
+      "title": "How to host your videos on systeme.io",
+      "title_from_slug": false,
+      "categories": [
+        "Courses 38 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/238-how-to-import-or-export-a-contact-list",
+      "title": "How to import or export a contact list",
+      "title_from_slug": false,
+      "categories": [
+        "Contact management 9 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/1643-how-to-improve-the-deliverability-of-my-emails-advanced-tips",
+      "title": "how to improve the deliverability of my emails advanced tips",
+      "title_from_slug": true,
+      "categories": [
+        ""
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/157-how-to-improve-your-email-deliverability",
+      "title": "How to improve your email deliverability",
+      "title_from_slug": false,
+      "categories": [
+        ""
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/1592-how-to-integrate-a-form-or-a-popup-on-wordpress",
+      "title": "How to integrate a systeme.io form or popup on a WordPress site",
+      "title_from_slug": false,
+      "categories": [
+        "General 95 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/1573-how-to-integrate-activecampaign-with-systeme-io",
+      "title": "How to integrate ActiveCampaign with systeme.io",
+      "title_from_slug": false,
+      "categories": [
+        "Emails 30 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/3813-how-to-integrate-apple-pay-on-systemeio-via-stripe",
+      "title": "How to integrate Apple Pay on systeme.io via Stripe",
+      "title_from_slug": false,
+      "categories": [
+        "Payments 23 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/361-how-to-integrate-an-appointment-scheduling-software-like-calendly-tidycal-or-youcanbookme",
+      "title": "How to integrate appointment scheduling software like Calendly, TidyCal or Youcanbookme",
+      "title_from_slug": false,
+      "categories": [
+        "General 95 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/1810-how-to-integrate-flutterwave-with-systeme-io",
+      "title": "How to integrate Flutterwave with systeme.io",
+      "title_from_slug": false,
+      "categories": [
+        "Payments 23 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/2146-how-to-integrate-gocardless-with-systeme-io",
+      "title": "How to integrate GoCardless with systeme.io",
+      "title_from_slug": false,
+      "categories": [
+        "Payments 23 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/4273-how-to-integrate-google-calendar-with-systemeio",
+      "title": "How to integrate Google Calendar with systeme.io",
+      "title_from_slug": false,
+      "categories": [
+        "General 95 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/4274-how-to-integrate-google-meet-with-systeme-io",
+      "title": "How to integrate Google Meet with systeme.io",
+      "title_from_slug": false,
+      "categories": [
+        "General 95 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/3739-how-to-integrate-google-sheets-with-systeme-io",
+      "title": "How to integrate Google Sheets with systeme.io",
+      "title_from_slug": false,
+      "categories": [
+        "General 95 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/1965-how-to-integrate-mollie-with-systeme-io",
+      "title": "How to integrate Mollie with systeme.io",
+      "title_from_slug": false,
+      "categories": [
+        "Payments 23 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/132-paypal-integration",
+      "title": "How to integrate PayPal with systeme.io",
+      "title_from_slug": false,
+      "categories": [
+        "Payments 23 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/1752-integrate-razorpay-systeme",
+      "title": "How to integrate Razorpay with systeme.io",
+      "title_from_slug": false,
+      "categories": [
+        "Payments 23 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/2967-how-to-integrate-secure-and-pay-with-systeme-io",
+      "title": "how to integrate secure and pay with systeme io",
+      "title_from_slug": true,
+      "categories": [
+        "Payments 23 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/2225-how-to-integrate-xendit-with-systeme-io",
+      "title": "How to integrate Xendit with systeme.io",
+      "title_from_slug": false,
+      "categories": [
+        "Payments 23 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/2096-how-to-integrate-your-mercado-pago-account-with-systeme-io",
+      "title": "How to integrate your Mercado Pago account with systeme.io",
+      "title_from_slug": false,
+      "categories": [
+        "Payments 23 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/4477-how-to-integrate-your-twilio-account-with-systemeio",
+      "title": "How to integrate your Twilio account with systeme.io",
+      "title_from_slug": false,
+      "categories": [
+        "General 95 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/3918-how-to-integrate-zoom-with-systeme-io",
+      "title": "How to integrate Zoom with systeme.io",
+      "title_from_slug": false,
+      "categories": [
+        "General 95 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/1709-invite-assistant-account",
+      "title": "How to invite an assistant to your systeme.io account",
+      "title_from_slug": false,
+      "categories": [
+        "General 95 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/4435-how-to-keep-a-section-always-visible-on-your-page",
+      "title": "How to keep a section always visible on your page",
+      "title_from_slug": false,
+      "categories": [
+        "Editor 36 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/231-how-to-connect-a-sales-funnel-or-a-page-to-your-website",
+      "title": "How to link a sales funnel or a page to your external website",
+      "title_from_slug": false,
+      "categories": [
+        "Sales funnels 37 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/151-how-to-make-a-test-purchase",
+      "title": "How to make a test purchase",
+      "title_from_slug": false,
+      "categories": [
+        "General 95 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/700-how-to-manage-blog-layout",
+      "title": "How to manage a blog's layout",
+      "title_from_slug": false,
+      "categories": [
+        "Blog 12 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/1689-how-to-manage-the-blog-post-layout",
+      "title": "How to manage the blog post layout",
+      "title_from_slug": false,
+      "categories": [
+        "Blog 12 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/11414-how-to-manage-your-automation-rules-with-the-systeme-io-mcp-server",
+      "title": "How to manage your automation rules with the systeme.io MCP server",
+      "title_from_slug": false,
+      "categories": [
+        "Model Context Protocol (MCP) 11 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/how-to-manage-your-booking-calendar-with-the-systeme-io-mcp-server",
+      "title": "How to manage your booking calendar with the systeme.io MCP server",
+      "title_from_slug": false,
+      "categories": [
+        "Model Context Protocol (MCP) 11 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/10272-how-to-manage-your-calendar-bookings",
+      "title": "How to manage your calendar bookings",
+      "title_from_slug": false,
+      "categories": [
+        "Booking calendar 7 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/11331-how-to-manage-your-contacts-with-the-systeme-io-mcp-server",
+      "title": "How to manage your contacts with the systeme.io MCP server",
+      "title_from_slug": false,
+      "categories": [
+        "Model Context Protocol (MCP) 11 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/11425-how-to-manage-your-digital-products-with-the-systeme-io-mcp-server",
+      "title": "How to manage your digital products with the systeme.io MCP server",
+      "title_from_slug": false,
+      "categories": [
+        "Model Context Protocol (MCP) 11 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/4455-how-to-manage-files-on-systeme-io",
+      "title": "How to manage your files in systeme.io",
+      "title_from_slug": false,
+      "categories": [
+        "General 95 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/11408-how-to-manage-your-funnels-with-the-systeme-io-mcp-server",
+      "title": "How to manage your funnels with the systeme.io MCP server",
+      "title_from_slug": false,
+      "categories": [
+        "Model Context Protocol (MCP) 11 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/11407-how-to-manage-your-newsletters-and-email-campaigns-with-the-systemeio-mcp-server",
+      "title": "how to manage your newsletters and email campaigns with the systemeio mcp server",
+      "title_from_slug": true,
+      "categories": [
+        "Model Context Protocol (MCP) 11 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/how-to-manage-your-physical-products-with-the-systeme-io-mcp-server",
+      "title": "How to manage your physical products with the systeme.io MCP server",
+      "title_from_slug": false,
+      "categories": [
+        "Model Context Protocol (MCP) 11 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/11412-how-to-manage-your-price-plans-and-coupons-with-the-systeme-io-mcp-server",
+      "title": "How to manage your price plans and coupons with the systeme.io MCP server",
+      "title_from_slug": false,
+      "categories": [
+        "Model Context Protocol (MCP) 11 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/2296-how-to-manually-add-a-student-to-a-course-bundle",
+      "title": "How to manually add a student to a course bundle",
+      "title_from_slug": false,
+      "categories": [
+        "Courses 38 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/217-how-to-add-manually-a-student-to-a-course",
+      "title": "How to manually add students to a course",
+      "title_from_slug": false,
+      "categories": [
+        "Courses 38 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/139-how-to-manually-clean-your-email-list",
+      "title": "How to manually clean your email list",
+      "title_from_slug": false,
+      "categories": [
+        ""
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/1768-how-to-resend-to-your-students-the-access-email-to-a-course-manually",
+      "title": "How to manually resend your students the access email for a course",
+      "title_from_slug": false,
+      "categories": [
+        "Courses 38 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/159-how-to-manually-subscribe-a-contact-to-an-email-campaign",
+      "title": "How to manually subscribe a contact to an email campaign",
+      "title_from_slug": false,
+      "categories": [
+        "Emails 30 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/4345-how-to-migrate-without-hurting-your-email-deliverability",
+      "title": "How to migrate without hurting your email deliverability?",
+      "title_from_slug": false,
+      "categories": [
+        "Migrating to systeme.io 8 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/2360-how-to-migrate-your-business-from-clickfunnels-to-systeme-io",
+      "title": "How to migrate your business from ClickFunnels to systeme.io",
+      "title_from_slug": false,
+      "categories": [
+        "Migrating to systeme.io 8 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/2385-how-to-migrate-your-business-from-gohighlevel-to-systeme-io",
+      "title": "How to migrate your business from GoHighLevel to systeme.io",
+      "title_from_slug": false,
+      "categories": [
+        "Migrating to systeme.io 8 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/2384-how-to-migrate-your-business-from-kajabi-to-systeme-io",
+      "title": "How to migrate your business from Kajabi to systeme.io",
+      "title_from_slug": false,
+      "categories": [
+        "Migrating to systeme.io 8 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/2382-how-to-migrate-your-business-from-kartra-to-systeme-io",
+      "title": "How to migrate your business from Kartra to systeme.io",
+      "title_from_slug": false,
+      "categories": [
+        "Migrating to systeme.io 8 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/2383-how-to-migrate-your-business-from-podia-to-systeme-io",
+      "title": "how to migrate your business from podia to systeme io",
+      "title_from_slug": true,
+      "categories": [
+        "Migrating to systeme.io 8 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/329-how-to-change-course-information",
+      "title": "How to modify a course's information",
+      "title_from_slug": false,
+      "categories": [
+        "Courses 38 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/305-how-to-move-duplicate-delete-page-from-sales-funnel",
+      "title": "How to move, duplicate & delete a page from a sales funnel",
+      "title_from_slug": false,
+      "categories": [
+        "Sales funnels 37 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/269-how-not-to-charge-vat-to-your-customers",
+      "title": "How to not charge VAT to your customers",
+      "title_from_slug": false,
+      "categories": [
+        "General 95 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/10273-how-to-offer-free-calendar-bookings",
+      "title": "How to offer free calendar bookings",
+      "title_from_slug": false,
+      "categories": [
+        "Booking calendar 7 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/1336-how-to-offer-ideal-and-bancontact-payments-in-systemeio",
+      "title": "How to offer iDEAL and Bancontact payments in systeme.io",
+      "title_from_slug": false,
+      "categories": [
+        "Payments 23 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/10542-how-to-offer-klarna-payments-in-systeme-io",
+      "title": "How to offer Klarna payments in systeme.io",
+      "title_from_slug": false,
+      "categories": [
+        "Payments 23 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/how-to-offer-mb-way-payments-in-systeme-io",
+      "title": "How to offer MB WAY payments in systeme.io",
+      "title_from_slug": false,
+      "categories": [
+        "Payments 23 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/11046-how-to-offer-multibanco-payments-in-systeme-io",
+      "title": "How to offer Multibanco payments in systeme.io",
+      "title_from_slug": false,
+      "categories": [
+        "Payments 23 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/3031-how-to-provide-your-students-with-a-certificate-of-completion",
+      "title": "How to provide your students with a certificate of completion",
+      "title_from_slug": false,
+      "categories": [
+        "Courses 38 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/2292-how-to-receive-an-email-notification-after-a-new-subscription-on-your-page",
+      "title": "How to receive email notifications for new leads in systeme.io",
+      "title_from_slug": false,
+      "categories": [
+        "Emails 30 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/250-how-to-receive-invoices-automatically",
+      "title": "How to receive invoices automatically",
+      "title_from_slug": false,
+      "categories": [
+        "Payments 23 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/259-how-to-refund-a-customer",
+      "title": "How to refund your customer",
+      "title_from_slug": false,
+      "categories": [
+        "General 95 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/2008-how-to-remove-sent-with-systemeio-and-customize-your-email-footer",
+      "title": "How to remove \"Sent with systeme.io\" and customize your email footer",
+      "title_from_slug": false,
+      "categories": [
+        "Emails 30 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/2122-how-to-remove-a-student",
+      "title": "How to remove a student",
+      "title_from_slug": false,
+      "categories": [
+        "Courses 38 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/1727-fix-no-lectures-yet-issue",
+      "title": "How to remove the \"No lectures yet\" message from your course",
+      "title_from_slug": false,
+      "categories": [
+        "Courses 38 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/286-how-to-remove-the-affiliate-badge-from-your-page",
+      "title": "How to remove the affiliate badge from your page",
+      "title_from_slug": false,
+      "categories": [
+        "General 95 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/295-how-to-report-a-problem-to-adblock-plus",
+      "title": "How to report a problem to Adblock Plus",
+      "title_from_slug": false,
+      "categories": [
+        "General 95 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/2046-how-to-report-abuse-on-systeme-io",
+      "title": "How to report abuse on systeme.io",
+      "title_from_slug": false,
+      "categories": [
+        "General 95 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/10278-how-to-request-a-free-dns-setup-from-systeme-io-support",
+      "title": "How to request a free DNS setup from systeme.io support",
+      "title_from_slug": false,
+      "categories": [
+        "Customer support 8 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/10861-how-to-request-a-recovery-for-deleted-content",
+      "title": "How to request a recovery for deleted content",
+      "title_from_slug": false,
+      "categories": [
+        "General 95 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/10603-how-to-reschedule-or-cancel-your-calendar-bookings",
+      "title": "How to reschedule or cancel calendar bookings",
+      "title_from_slug": false,
+      "categories": [
+        "Booking calendar 7 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/289-how-to-resend-a-newsletter-for-those-who-didn-t-open-it",
+      "title": "How to resend a newsletter to those who did not open it",
+      "title_from_slug": false,
+      "categories": [
+        "Emails 30 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/11048-how-to-reset-a-students-course-progress",
+      "title": "How to reset a student's course progress",
+      "title_from_slug": false,
+      "categories": [
+        "Courses 38 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/248-domain-name-connection-caa-error",
+      "title": "How to resolve the CAA error when connecting your domain",
+      "title_from_slug": false,
+      "categories": [
+        "General 95 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/11332-how-to-restore-deleted-contacts",
+      "title": "How to restore deleted contacts",
+      "title_from_slug": false,
+      "categories": [
+        "Contact management 9 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/274-how-to-cancel-a-students-access-to-a-course",
+      "title": "How to revoke a student's access to a course",
+      "title_from_slug": false,
+      "categories": [
+        "Courses 38 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/136-how-to-save-blocks-in-the-editor",
+      "title": "How to save blocks in the editor",
+      "title_from_slug": false,
+      "categories": [
+        "Editor 36 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/2048-how-to-sell-a-course-bundle",
+      "title": "How to sell a course bundle",
+      "title_from_slug": false,
+      "categories": [
+        "Courses 38 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/368-how-to-sell-an-e-book-with-a-vat-rate-of-5-5",
+      "title": "How to sell an ebook with a VAT rate of 5.5%",
+      "title_from_slug": false,
+      "categories": [
+        "General 95 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/237-how-to-sell-an-online-course",
+      "title": "How to sell an online course",
+      "title_from_slug": false,
+      "categories": [
+        "Courses 38 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/2106-how-to-automatically-grant-community-access-to-customers",
+      "title": "How to sell community access to your customers",
+      "title_from_slug": false,
+      "categories": [
+        "Sales funnels 37 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/10274-how-to-sell-your-calendar-bookings",
+      "title": "How to sell your calendar bookings",
+      "title_from_slug": false,
+      "categories": [
+        "Booking calendar 7 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/155-how-to-sell-your-ebook",
+      "title": "How to sell your eBook",
+      "title_from_slug": false,
+      "categories": [
+        "General 95 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/138-how-to-send-a-password-reset-email",
+      "title": "How to send a password reset email",
+      "title_from_slug": false,
+      "categories": [
+        "General 95 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/290-how-to-send-an-email-test",
+      "title": "How to send a test email",
+      "title_from_slug": false,
+      "categories": [
+        "Emails 30 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/318-how-to-send-an-invoice-to-a-client",
+      "title": "How to send an invoice to a client",
+      "title_from_slug": false,
+      "categories": [
+        "Payments 23 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/4375-how-to-send-automated-course-reminder-emails-to-students",
+      "title": "How to send automated course reminder emails to students",
+      "title_from_slug": false,
+      "categories": [
+        "Courses 38 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/332-how-to-send-customers-a-link-to-update-their-credit-cards",
+      "title": "How to send customers a link to update their credit cards",
+      "title_from_slug": false,
+      "categories": [
+        "Payments 23 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/637-how-to-send-emails-with-your-own-sendgrid-account",
+      "title": "How to send emails with your SendGrid account",
+      "title_from_slug": false,
+      "categories": [
+        "Emails 30 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/358-how-to-send-or-schedule-a-newsletter",
+      "title": "How to send or schedule a newsletter",
+      "title_from_slug": false,
+      "categories": [
+        "Emails 30 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/4483-how-to-send-sms-messages-with-systeme-io",
+      "title": "How to send SMS messages with systeme.io",
+      "title_from_slug": false,
+      "categories": [
+        "General 95 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/212-how-to-send-the-affiliate-links-to-your-affiliates",
+      "title": "How to send your affiliates their links",
+      "title_from_slug": false,
+      "categories": [
+        "Affiliation 12 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/1747-add-a-sale-limit",
+      "title": "How to set a sales limit on your offers",
+      "title_from_slug": false,
+      "categories": [
+        "General 95 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/351-how-to-change-the-image-of-a-page-on-social-networks",
+      "title": "How to set a social media image for your page",
+      "title_from_slug": false,
+      "categories": [
+        "Editor 36 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/3861-how-to-set-up-a-creator-store",
+      "title": "How to set up a creator store",
+      "title_from_slug": false,
+      "categories": [
+        "General 95 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/902-how-to-setup-a-free-trial",
+      "title": "How to set up a free trial",
+      "title_from_slug": false,
+      "categories": [
+        "Sales funnels 37 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/2045-how-to-set-up-a-gdpr-compliant-cookie-banner",
+      "title": "How to set up a GDPR compliant cookie banner?",
+      "title_from_slug": false,
+      "categories": [
+        ""
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/1748-promote-courses-student-dashboard",
+      "title": "How to set up a public course store and promote courses to existing students",
+      "title_from_slug": false,
+      "categories": [
+        "Courses 38 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/10950-how-to-set-up-an-a-b-test-for-your-newsletters",
+      "title": "How to set up an A/B test for your newsletters",
+      "title_from_slug": false,
+      "categories": [
+        "Emails 30 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/218-how-to-create-a-split-test",
+      "title": "How to set up an A/B test for your pages",
+      "title_from_slug": false,
+      "categories": [
+        "Sales funnels 37 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/367-how-to-set-up-an-email-campaign",
+      "title": "How to set up an email campaign",
+      "title_from_slug": false,
+      "categories": [
+        "Emails 30 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/1659-how-to-set-up-an-inactive-page-on-a-deactivated-sales-funnel",
+      "title": "How to set up an inactive page on a deactivated sales funnel",
+      "title_from_slug": false,
+      "categories": [
+        "Sales funnels 37 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/2223-how-to-set-up-payment-on-delivery-on-systeme-io",
+      "title": "How to set up cash on delivery payment on systeme.io",
+      "title_from_slug": false,
+      "categories": [
+        "Payments 23 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/271-how-to-set-up-double-opt-in",
+      "title": "How to set up double opt-in",
+      "title_from_slug": false,
+      "categories": [
+        "General 95 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/472-how-to-configure-an-email-for-dripped-access-to-lectures-as-soon-as-a-lecture-becomes-available",
+      "title": "How to set up email notifications for when a lecture in a drip access course becomes available",
+      "title_from_slug": false,
+      "categories": [
+        "Courses 38 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/2092-how-to-track-utm-parameters",
+      "title": "How to set up UTM tracking in systeme.io",
+      "title_from_slug": false,
+      "categories": [
+        "General 95 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/10270-how-to-set-up-your-calendar-events",
+      "title": "How to set up your calendar events",
+      "title_from_slug": false,
+      "categories": [
+        "Booking calendar 7 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/10271-how-to-set-your-calendar-events-availability",
+      "title": "How to set your calendar events availability",
+      "title_from_slug": false,
+      "categories": [
+        "Booking calendar 7 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/1663-how-to-share-a-block",
+      "title": "How to share a block with other accounts",
+      "title_from_slug": false,
+      "categories": [
+        "Editor 36 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/2289-how-to-share-a-campaign",
+      "title": "How to share a campaign",
+      "title_from_slug": false,
+      "categories": [
+        "Emails 30 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/1716-how-to-share-a-course",
+      "title": "How to share a course",
+      "title_from_slug": false,
+      "categories": [
+        "Courses 38 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/629-how-to-share-a-newsletter",
+      "title": "How to share a newsletter",
+      "title_from_slug": false,
+      "categories": [
+        "Emails 30 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/323-how-to-share-a-page",
+      "title": "How to share a page",
+      "title_from_slug": false,
+      "categories": [
+        "Sales funnels 37 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/148-how-to-share-a-sales-funnel",
+      "title": "how to share a sales funnel",
+      "title_from_slug": true,
+      "categories": [
+        "Sales funnels 37 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/2512-how-to-solve-systeme-io-link-sharing-problems-on-meta",
+      "title": "How to solve systeme.io link-sharing problems on Meta",
+      "title_from_slug": false,
+      "categories": [
+        "General 95 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/1062-how-to-subscribe-contacts-to-a-campaign-while-importing-a-list-of-contacts",
+      "title": "How to subscribe contacts to a campaign when importing a contact list",
+      "title_from_slug": false,
+      "categories": [
+        "Contact management 9 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/2005-how-to-suggest-a-feature",
+      "title": "How to suggest a feature",
+      "title_from_slug": false,
+      "categories": [
+        "General 95 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/337-how-to-set-up-a-popup-that-opens-by-clicking-on-a-text-link",
+      "title": "How to trigger a popup from a text link (on systeme.io or external sites)",
+      "title_from_slug": false,
+      "categories": [
+        "Editor 36 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/1726-trigger-automation-rules-order-bump",
+      "title": "How to trigger automation rules when a customer buys your order bump",
+      "title_from_slug": false,
+      "categories": [
+        "Sales funnels 37 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/2927-how-to-trigger-automations-after-clicks-on-an-email-link",
+      "title": "How to trigger automations after contacts click links in an email",
+      "title_from_slug": false,
+      "categories": [
+        "Emails 30 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/2390-how-to-trigger-automations-when-a-course-module-or-lecture-is-completed",
+      "title": "how to trigger automations when a course module or lecture is completed",
+      "title_from_slug": true,
+      "categories": [
+        "Courses 38 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/2463-how-to-trigger-custom-code-on-the-webinar-started-event",
+      "title": "How to trigger custom code on the \"webinar started\" event",
+      "title_from_slug": false,
+      "categories": [
+        "Sales funnels 37 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/1728-update-page-metadata-social-networks",
+      "title": "How to troubleshoot social media previews (Debug Metadata)",
+      "title_from_slug": false,
+      "categories": [
+        "General 95 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/4450-stripe-radar-for-fraud-protection",
+      "title": "How to use Stripe Radar for fraud protection",
+      "title_from_slug": false,
+      "categories": [
+        "Payments 23 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/2930-how-to-use-systeme-ios-webhook-service",
+      "title": "How to use systeme.io's Webhook service",
+      "title_from_slug": false,
+      "categories": [
+        "General 95 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/335-how-to-use-the-text-section-in-the-editor",
+      "title": "How to use the \"Text\" section in the editor",
+      "title_from_slug": false,
+      "categories": [
+        "Editor 36 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/3957-how-to-use-the-booking-calendar-feature-on-systeme-io",
+      "title": "How to use the booking calendar feature on systeme.io",
+      "title_from_slug": false,
+      "categories": [
+        "Booking calendar 7 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/1399-how-to-use-carousel-element",
+      "title": "How to use the carousel element",
+      "title_from_slug": false,
+      "categories": [
+        "Editor 36 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/1580-how-to-use-the-contact-us-feature",
+      "title": "How to use the Contact us feature",
+      "title_from_slug": false,
+      "categories": [
+        "Editor 36 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/344-how-to-use-the-daily-countdown",
+      "title": "How to use the daily countdown feature",
+      "title_from_slug": false,
+      "categories": [
+        "Editor 36 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/338-how-to-use-the-delay-countdown",
+      "title": "How to use the delay countdown",
+      "title_from_slug": false,
+      "categories": [
+        "Editor 36 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/1335-how-to-use-the-email-editor",
+      "title": "How to use the email editor",
+      "title_from_slug": false,
+      "categories": [
+        "Emails 30 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/333-how-to-use-the-fixed-time-and-date-countdown-timer",
+      "title": "How to use the fixed time and date countdown timer",
+      "title_from_slug": false,
+      "categories": [
+        "Editor 36 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/1744-how-to-use-the-latest-blog-post-carousel-element",
+      "title": "How to use the latest blog post carousel element",
+      "title_from_slug": false,
+      "categories": [
+        "Blog 12 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/11064-how-to-use-the-rss-feed-for-your-systeme-io-blog",
+      "title": "How to use the RSS feed for your systeme.io blog",
+      "title_from_slug": false,
+      "categories": [
+        "Blog 12 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/9489-how-to-use-systeme-ios-mcp",
+      "title": "How to use the systeme.io MCP server (Model Context Protocol)",
+      "title_from_slug": false,
+      "categories": [
+        "Model Context Protocol (MCP) 11 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/2323-how-to-use-systeme-io-public-api",
+      "title": "How to use the systeme.io public API (Application Programming Interface)",
+      "title_from_slug": false,
+      "categories": [
+        "General 95 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/3032-how-to-show-access-dates-for-drip-content-course",
+      "title": "How to view access dates for a drip content course",
+      "title_from_slug": false,
+      "categories": [
+        "Courses 38 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/11433-how-to-view-and-download-customer-consent-records",
+      "title": "How to view and download customer consent records",
+      "title_from_slug": false,
+      "categories": [
+        "General 95 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/7532-white-label-feature",
+      "title": "How to white label systeme.io",
+      "title_from_slug": false,
+      "categories": [
+        "General 95 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/10860-how-uk-vat-is-handled-in-systeme-io",
+      "title": "How UK VAT is handled in systeme.io",
+      "title_from_slug": false,
+      "categories": [
+        "General 95 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/281-how-vat-is-managed-in-systeme-io",
+      "title": "How VAT is managed in systeme.io",
+      "title_from_slug": false,
+      "categories": [
+        "General 95 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/232-i-am-not-satisfied-with-the-answer-the-support-team-gaveme",
+      "title": "i am not satisfied with the answer the support team gaveme",
+      "title_from_slug": true,
+      "categories": [
+        "Customer support 8 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/142-integrating-your-subdomain-into-systeme-io",
+      "title": "Integrating your subdomain with systeme.io",
+      "title_from_slug": false,
+      "categories": [
+        "General 95 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/2962-is-it-possible-to-change-the-size-of-a-popup",
+      "title": "Is it possible to change the size of a popup?",
+      "title_from_slug": false,
+      "categories": [
+        "General 95 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/319-is-it-possible-to-contact-our-support-team-on-the-phone",
+      "title": "Is it possible to contact our support team on the phone?",
+      "title_from_slug": false,
+      "categories": [
+        "Customer support 8 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/306-is-it-possible-to-insert-html-css-or-js-code",
+      "title": "Is it possible to insert HTML, CSS, or JS code?",
+      "title_from_slug": false,
+      "categories": [
+        "Editor 36 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/628-is-it-possible-to-integrate-systeme-io-with-an-external-autoresponder",
+      "title": "Is it possible to integrate systeme.io with an external autoresponder?",
+      "title_from_slug": false,
+      "categories": [
+        "Emails 30 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/272-is-it-possible-to-use-a-private-email-address-to-send-emails-from-systemeio",
+      "title": "Is it possible to use a personal email address to send emails from systeme.io?",
+      "title_from_slug": false,
+      "categories": [
+        "Emails 30 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/10953-migration-of-your-contact-list-to-systeme-io-what-you-need-to-know-before-getting-started-advanced-tips",
+      "title": "Migration of your contact list to systeme.io: what you need to know before getting started (advanced tips)",
+      "title_from_slug": false,
+      "categories": [
+        "Migrating to systeme.io 8 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/347-my-domain-name-is-not-approved",
+      "title": "My domain name is not approved",
+      "title_from_slug": false,
+      "categories": [
+        "Sales funnels 37 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/327-my-funnels-are-gone",
+      "title": "My funnels are gone",
+      "title_from_slug": false,
+      "categories": [
+        "Sales funnels 37 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/11008-re-engagement-campaign-practical-guide-to-wake-up-your-inactive-subscribers",
+      "title": "Re-engagement campaign: practical guide to wake up your inactive subscribers",
+      "title_from_slug": false,
+      "categories": [
+        ""
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/296-restrictions-on-the-use-of-indian-rupee-currency",
+      "title": "Restriction on the use of Indian rupee currency",
+      "title_from_slug": false,
+      "categories": [
+        "General 95 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/10921-secure-your-registration-forms-with-recaptcha",
+      "title": "Secure your registration forms with reCAPTCHA",
+      "title_from_slug": false,
+      "categories": [
+        "General 95 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/10453-setting-up-email-campaigns-a-guide-to-common-scenarios-and-key-considerations",
+      "title": "Setting up email campaigns: a guide to common scenarios and key considerations",
+      "title_from_slug": false,
+      "categories": [
+        "Emails 30 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/312-systeme-io-support-opening-hours",
+      "title": "Systeme.io support hours of operation",
+      "title_from_slug": false,
+      "categories": [
+        "Customer support 8 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/315-the-difference-between-an-upsell-and-an-order-bump",
+      "title": "the difference between an upsell and an order bump",
+      "title_from_slug": true,
+      "categories": [
+        "Sales funnels 37 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/261-understanding-affiliate-link-tracking",
+      "title": "Understanding affiliate link tracking",
+      "title_from_slug": false,
+      "categories": [
+        "Affiliation 12 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/2924-grasping-and-navigating-bounce-management-on-systeme-io",
+      "title": "Understanding and managing email bounce on systeme.io",
+      "title_from_slug": false,
+      "categories": [
+        ""
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/1720-different-ways-access-course",
+      "title": "What are the different methods for giving access to a course?",
+      "title_from_slug": false,
+      "categories": [
+        "Courses 38 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/1596-what-are-the-different-methods-to-create-a-website",
+      "title": "What are the different methods to create a website?",
+      "title_from_slug": false,
+      "categories": [
+        "General 95 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/1661-what-happens-when-a-customers-subscription-payment-fails",
+      "title": "What happens when a customer's subscription payment fails",
+      "title_from_slug": false,
+      "categories": [
+        "Payments 23 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/1086-what-happens-when-my-account-gets-restricted",
+      "title": "What happens when my account gets restricted",
+      "title_from_slug": false,
+      "categories": [
+        "General 95 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/235-what-is-two-step-order-form",
+      "title": "What is a two-step order form?",
+      "title_from_slug": false,
+      "categories": [
+        "Sales funnels 37 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/2922-what-is-an-email-preview",
+      "title": "What is an email preview?",
+      "title_from_slug": false,
+      "categories": [
+        "Emails 30 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/510-what-is-the-search-engine-optimisation-seo-part-for",
+      "title": "What is the \"Search Engine Optimization (SEO)\" section for?",
+      "title_from_slug": false,
+      "categories": [
+        "Editor 36 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/2392-what-is-two-factor-authentication-2fa-and-how-can-i-disable-it",
+      "title": "What is two-factor authentication (2FA), and how can I disable it?",
+      "title_from_slug": false,
+      "categories": [
+        "General 95 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/221-what-is-transferwise",
+      "title": "What is Wise? (Formerly known as TransferWise)",
+      "title_from_slug": false,
+      "categories": [
+        "Affiliation 12 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/276-what-to-do-with-contacts-with-bounced-status",
+      "title": "What to do with contacts that have a \"Bounced\" status",
+      "title_from_slug": false,
+      "categories": [
+        ""
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/1005-when-to-use-the-sales-funnel-feature-and-the-blog-feature",
+      "title": "When to use the sales funnel feature and the blog feature",
+      "title_from_slug": false,
+      "categories": [
+        "General 95 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/3730-which-links-are-not-allowed-in-emails-sent-from-systeme-io",
+      "title": "Which links are not allowed in emails sent from systeme.io ?",
+      "title_from_slug": false,
+      "categories": [
+        ""
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/623-what-does-it-mean-when-the-error-at-least-one-email-input-is-required-on-this-pags-is-displayed-on-one-of-your-pages",
+      "title": "Why am I seeing the \"At least one email input is required\" error?",
+      "title_from_slug": false,
+      "categories": [
+        "Editor 36 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/227-my-emails-are-not-being-sent",
+      "title": "Why aren't my emails being sent?",
+      "title_from_slug": false,
+      "categories": [
+        ""
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/314-why-my-paypal-payments-do-not-appear",
+      "title": "Why aren't my PayPal payment transactions appearing?",
+      "title_from_slug": false,
+      "categories": [
+        "Payments 23 articles"
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/3733-why-did-my-open-rate-change-after-switching-to-systeme-io",
+      "title": "Why did my open rate change after switching to Systeme.io ?",
+      "title_from_slug": false,
+      "categories": [
+        ""
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/369-why-do-my-emails-arrive-in-the-promotion-tab-of-gmail",
+      "title": "Why do my emails arrive in the Gmail 'promotions' tab?",
+      "title_from_slug": false,
+      "categories": [
+        ""
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/2923-why-do-my-emails-end-up-in-the-spam-folder",
+      "title": "Why do my emails end up in the spam folder?",
+      "title_from_slug": false,
+      "categories": [
+        ""
+      ]
+    },
+    {
+      "url": "https://help.systeme.io/article/356-why-is-my-students-activity-log-file-damaged",
+      "title": "Why is my student's activity log file damaged?",
+      "title_from_slug": false,
+      "categories": [
+        "Courses 38 articles"
+      ]
+    }
+  ]
+}
