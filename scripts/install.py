@@ -15,7 +15,7 @@ def install(destination, skill='systeme-io'):
     if target.exists() or target.is_symlink(): raise FileExistsError('Existing destination preserved: '+str(target))
     if target.resolve().is_relative_to((ROOT/'skills').resolve()): raise ValueError('Cannot install inside the source skills')
     shutil.copytree(source, target, ignore=shutil.ignore_patterns('__pycache__', '*.pyc'))
-    if not (target/'LICENSE.txt').exists(): shutil.copy2(ROOT/'LICENSE', target/'LICENSE')
+    if not (target/'LICENSE').exists(): shutil.copy2(ROOT/'LICENSE', target/'LICENSE')
     return target
 
 def main():

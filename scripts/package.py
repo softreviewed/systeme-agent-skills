@@ -16,7 +16,7 @@ def package(output, skill='systeme-io'):
             for f in sorted(source.rglob('*')):
                 if f.is_file() and '__pycache__' not in f.parts and f.suffix != '.pyc':
                     z.write(f, f.relative_to(source.parent).as_posix())
-            if not (source/'LICENSE.txt').exists(): z.write(ROOT/'LICENSE', name+'/LICENSE')
+            if not (source/'LICENSE').exists(): z.write(ROOT/'LICENSE', name+'/LICENSE')
     return target
 
 if __name__ == '__main__':

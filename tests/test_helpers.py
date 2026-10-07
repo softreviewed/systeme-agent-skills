@@ -37,6 +37,7 @@ class Helpers(unittest.TestCase):
                 self.assertEqual({p.split('/')[0] for p in z.namelist()}, {'systeme-io'})
                 self.assertIn('systeme-io/references/campaign/email-campaigns.md', z.namelist())
                 self.assertIn('systeme-io/LICENSE', z.namelist())
+                self.assertEqual(z.namelist().count('systeme-io/LICENSE'), 1)
                 self.assertFalse(any('__pycache__' in p or '..' in p for p in z.namelist()))
     def test_selective_task_routing(self):
         access = router.route('give a student course access')
