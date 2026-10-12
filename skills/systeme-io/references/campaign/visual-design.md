@@ -6,6 +6,8 @@ Inspect the current design and one useful reference. Describe what to borrow as 
 
 Define roles in `DESIGN.md`: heading/body type, text and background colors, primary/secondary action colors, spacing scale, content width, borders, radii, icon family and state behavior. Prefer an existing licensed font/system stack when a new font adds no value. Distinguish page-wide changes from local section changes.
 
+For the step-by-step page build, offer blocks and the anti-template checklist, read [landing page build](landing-page-build.md).
+
 ## Layout decisions
 
 For Systeme.io, identify whether the selected asset is a website page, funnel step or blog template before editing. Use supported native blocks where practical. If custom HTML/CSS is needed, scope selectors to that content and check platform-generated styles for button and heading conflicts. A shared blog template can affect many posts: inspect that scope before changing it. Match forms and checkout buttons to the existing step and offer; appearance alone does not connect a signup workflow.

@@ -8,6 +8,10 @@ For newsletters, saving a draft, scheduling it and sending it are separate actio
 
 Authenticate the sender using the current account-provided records and verify sender status. Do not replace unrelated DNS settings or imply a paid external email provider is required without evidence. Check opt-in and unsubscribe behavior appropriate to the user's setup.
 
-Test only to an authorized address. Check rendered links, mobile layout, variables and footer. A successful test request does not prove inbox placement for the whole list. Investigate failures using authentication, campaign state, trigger, contact status and delivery evidence before proposing retries or another provider.
+Test only to an authorized address. A test send of a campaign step arrives immediately (it ignores the step's delay) and does not fill variables such as `{first_name}`; judge timing and personalization with a real test sign-up instead.
+
+The account-wide footer text setting is plain text only. A graphic footer (social card, logo) must be added as the last section of each email. Use transparent PNGs so images have no white corners in dark-mode inboxes, and host images on Systeme.io Files. To show a video, use a thumbnail image with a play button linked to the video; email clients do not play embedded video.
+
+Check rendered links, mobile layout, variables and footer. A successful test request does not prove inbox placement for the whole list. Investigate failures using authentication, campaign state, trigger, contact status and delivery evidence before proposing retries or another provider.
 
 Sources: [Campaign setup](https://help.systeme.io/article/367-how-to-set-up-an-email-campaign), [Automating a sequence](https://help.systeme.io/article/284-how-to-automate-the-sending-of-a-series-of-emails-campaign), [Domain authentication](https://help.systeme.io/article/316-how-to-authenticate-your-personal-domain-name), [Email help](https://help.systeme.io/category/156-emails).

@@ -5,7 +5,9 @@ Capture the exact symptom, affected URL/record, last successful action and error
 | Symptom | Inspect first |
 |---|---|
 | Page missing or old | Correct URL, publish state, domain assignment, saved content, then cache |
-| Form submits but no follow-up | Correct form trigger, contact status, campaign subscription, email activation/delay |
+| Form submits but no follow-up | Trigger mode matches the page (Form element vs Field, see automation guide), form's Actions tab lists the rule, contact status, campaign subscription, email activation/delay |
+| Extra MCP returns 401 "Invalid API Key." | It needs a Public API key, not the MCP key; check the key was not deleted |
+| Test email arrives instantly with an empty name | Normal for test sends; check with a real test sign-up |
 | Email not arriving | Sender authentication, recipient status, delivery evidence, spam folder |
 | Domain not approved | Exact account DNS values, resolution, HTTPS and relevant CAA/provider guidance |
 | Course access missing | Correct student/course, access type, purchase automation and actual enrolment record |

@@ -27,12 +27,13 @@ Read only the relevant guide below. Read [tool routing](references/tools.md) whe
 | Payment gateways, offers, recurring purchases, coupons | [Payments](references/payments.md) |
 | Affiliate setup, booking calendar, physical products | [Other workflows](references/other-workflows.md) |
 | A failure, incomplete task or conflicting guidance | [Troubleshooting](references/troubleshooting.md) |
+| Build or redesign a landing/sales page that converts | [Landing page build](references/campaign/landing-page-build.md) |
 | Page appearance, spacing, visual hierarchy, mobile layout | [Page design](references/campaign/visual-design.md) |
 | Landing-page message, offer, headlines, CTA, SEO copy | [Audience and copy](references/campaign/audience-copy.md) |
 | Write welcome, nurture or onboarding emails | [Email writing](references/campaign/email-campaigns.md) |
 | Page/campaign review, conversion testing | [Quality and experiments](references/campaign/quality-experiments.md) |
 
-For a complete page-and-email campaign, begin with audience/copy and the appropriate platform guide; open design and email writing only at those stages. For a simple access or tag change, skip all design and marketing guides. Use [the campaign worksheet](assets/campaign-worksheet.md) only when creating a campaign deliverable.
+For a complete page-and-email campaign, begin with audience/copy and the appropriate platform guide; open the landing page build, design and email writing guides only at those stages. For a simple access or tag change, skip all design and marketing guides. Use [the campaign worksheet](assets/campaign-worksheet.md) only when creating a campaign deliverable.
 
 Optional routing helper: `python scripts/route_task.py "fix mobile spacing on my landing page"` returns up to four relevant paths without reading their bodies. Execute from this skill directory or use its absolute script path. The table is the fallback when Python is unavailable. Routing suggests guides; it does not execute actions or replace judgment.
 

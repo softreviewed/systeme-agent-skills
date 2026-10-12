@@ -2,6 +2,8 @@
 
 Checked 6 October 2026.
 
+Version 2.1.0 (13 October 2026) adds a landing page build guide (page skeleton, offer/CTA blocks, form setup, anti-template checklist, usability floor), copy patterns and rewrites, the Form element vs Field trigger check, email test-send and footer notes, and updates tool routing for the full Extra MCP (22 tools, 152 actions; Public API key vs MCP key). These come from observed account behavior on a live funnel; no conversion experiment was run.
+
 Version 2.0.0 integrates the original page, copy and email guides into one self-contained Systeme.io skill. The version 1.1 third-party skill is removed; earlier release archives retain their own license notices. No external design skill is required.
 
 Twelve helper tests passed, including complete isolated installation, readiness failure on a missing module, selective routing, unknown-skill rejection and the single-folder archive. Skill-creator validation and local link/encoding/credential-pattern checks passed. Readiness tests do not establish live account authentication.

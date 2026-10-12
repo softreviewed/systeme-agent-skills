@@ -50,8 +50,9 @@ Version 2 packages everything inside one `systeme-io` skill. Users do not need t
 | Included | What it helps you do |
 |---|---|
 | Platform workflow guides | Websites, funnels, automation, contacts, courses, payments and troubleshooting |
+| Landing page build | Step-by-step page skeleton, offer blocks that show the product, one clear button, form setup and an anti-template checklist |
 | Page design | Clear layout, useful visuals, readable buttons and mobile review |
-| Audience and copy | Relevant offers, natural headings, credible claims and clear next steps |
+| Audience and copy | Headlines in the reader's own words, proven copy patterns, before/after rewrites and honest offer terms |
 | Email writing | Welcome, nurture and onboarding drafts matched to the page |
 | Quality and measurement | Check forms, destinations, rendering and proposed experiments |
 | First-use readiness guide | Separate installed files from verified account access |
