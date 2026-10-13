@@ -45,6 +45,8 @@ The index contains titles and URLs, not copied article bodies. Link discovery is
 
 ## Install
 
+**This is a skill, not an MCP server.** It is a folder of instructions: no Docker, no API key and nothing running in the background. Pair it with an MCP (see [Skills and MCP](#skills-and-mcp-use-them-together)) when you want the agent to change your account.
+
 ### One installation, the complete toolkit
 
 Version 2 packages everything inside one `systeme-io` skill. Users do not need to find separate design, copywriting or email skills.
@@ -105,7 +107,13 @@ python scripts/install.py --destination "~/.agents/skills/systeme-io"
 
 For Claude Code or Antigravity, replace the destination using the table. The installer refuses to overwrite an existing skill. It does not edit agent settings, install an MCP or store keys. After installation, reload the agent and check its skill list. In clients with explicit skill commands, invoke `systeme-io` using the client's own syntax.
 
-To update, compare the new version with your installed copy and preserve personal changes before replacing it. There is no background updater. To uninstall, remove only the installed `systeme-io` folder through your normal file-management flow.
+### Update to the latest version
+
+There is no background updater. Ask your agent:
+
+> Update my installed systeme-io skill from https://github.com/softreviewed/systeme-agent-skills. Find where it is installed, copy that folder to a backup next to it first, then replace it with the complete latest `skills/systeme-io` folder. Tell me if my old copy had personal edits so I can keep them. Do not touch other skills, accounts or credentials. Reload, then show me the installed version.
+
+The version is listed in [Releases](https://github.com/softreviewed/systeme-agent-skills/releases). Prefer to do it by hand? Back up the installed `systeme-io` folder, then copy the new one in its place (the installer will not overwrite an existing folder). To uninstall, remove only the installed `systeme-io` folder through your normal file-management flow.
 
 ## Try it
 
@@ -121,7 +129,7 @@ To update, compare the new version with your installed copy and preserve persona
 |---|---|
 | This skill | Instructions, task routing, source discovery and checks |
 | [Official Systeme.io MCP](https://systeme.io/mcp) | Account actions supported by the connected official integration |
-| [Systeme.io Extra MCP](https://github.com/softreviewed/systeme-extra-mcp) | Additional enrolment, membership, custom-field, subscription, webhook and SMS-configuration tools |
+| [Systeme.io Extra MCP](https://github.com/softreviewed/systeme-extra-mcp) | The full Systeme.io public API (152 actions), including course access, community members, custom fields, subscriptions and webhooks, with a preview before every change. Works with Docker or plain Python |
 | An authenticated browser | Dashboard operations and visual inspections where supported tools are absent |
 
 No account connection is required to plan or learn. Actual changes need your connected account, appropriate tools, permissions and authorization. The skill does not make an agent know everything or guarantee it chooses the right customer. Tool discovery and verification remain necessary.
