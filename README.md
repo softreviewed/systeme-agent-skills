@@ -6,6 +6,8 @@
 
 You have a business idea, a few useful links and something to offer. This skill helps an agent turn that into a clear workflow: choose the right builder, create the page, capture subscribers and configure follow-up using the tools you connect.
 
+![Same prompt, different page: without the skill the AI builds a generic template; with Systeme.io Agent Skills it builds a page with a product image, clear benefits and one strong button](docs/images/same-prompt.png)
+
 > 🚀 **Don't have an account yet? [Create your free Systeme.io account](https://systeme.io/?sa=sa014961805313a1b0df13d9b881e5c0c4563dda8f)** to put your pages and email workflows into practice. Already have one? Use your existing account.
 
 *Affiliate link: SoftReviewed may earn a commission from eligible purchases.*

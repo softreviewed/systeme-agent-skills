@@ -55,3 +55,7 @@ Footer clear but concise, comfortably readable:
 Ensure all words are spelled accurately, line wraps logical, all numbered steps and footer within frame, no clipped text, no redundant decorations, no checkbox implying account authentication has already happened. No guarantees of ranking, conversions, comprehensive tool access or automatic account connection. Make it striking, professional and easy to understand in seconds.
 
 Extra MCP infographic final refinement replaced letter-S symbols with neutral account icons. No recreated Systeme.io logo is used.
+
+## same-prompt.png (13 Oct 2026, gpt-image-2 via Qolaba)
+
+Before/after: "Same prompt. Different page." Prompt bubble "Build my course signup page". Left laptop: "AI without skills", a grey generic template ("Want something special?", grey Submit). Right laptop: "AI with Systeme.io Agent Skills", a page with a course tablet mockup, outcome headline, three icon benefits and one orange button. Illustrative example, not a measured result.
